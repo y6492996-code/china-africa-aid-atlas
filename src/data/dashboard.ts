@@ -29,6 +29,7 @@ export interface SourceData {
   metricKnownRate: number
   yearMin: number | null
   yearMax: number | null
+  fieldCount?: number
   columns: Array<{ file: string; fields: string[] }>
 }
 

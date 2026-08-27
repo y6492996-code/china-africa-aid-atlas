@@ -11,7 +11,7 @@ interface CountryData {
   yearCounts: Record<string, number>; metrics: Record<string, CountryMetric>
 }
 interface SourceData {
-  id: string; label: string; rows: number; mappedRows: number; mappedRate: number; metricKnownRate: number
+  id: string; label: string; rows: number; mappedRows: number; mappedRate: number; metricKnownRate: number; fieldCount?: number
   yearMin: number | null; yearMax: number | null; columns: Array<{ file: string; fields: string[] }>
 }
 interface DashboardData {
@@ -144,7 +144,7 @@ export function HomePage() {
       </section>
 
       <section className="signal-section"><header><span>COUNTRY / SIGNALS</span><h2>{copy.countrySignals}</h2><p>{country ? `${isEnglish ? country.nameEn : country.nameZh} · ${copy.note}` : copy.note}</p></header><div className="signal-grid">{metrics.length ? metrics.map(([sourceId, metric], index) => <article key={sourceId}><span>0{index + 1} · {sourceLabels[sourceId] ?? sourceId}</span><strong>{metricValue(metric)}</strong><p>{metric.label}<small>{metric.unit}</small></p></article>) : <article className="signal-empty">{copy.noMetric}</article>}</div></section>
-      <section className="source-schema-section"><header><span>SOURCE / SCHEMA</span><h2>{copy.sourceOverview}</h2></header><div className="schema-list">{(dashboard?.sources ?? []).map((source) => { const fieldCount = source.columns.reduce((sum, file) => sum + file.fields.length, 0); return <Link to="/databases" key={source.id}><span>{source.label}</span><strong>{fieldCount}<small>{copy.fields}</small></strong><i><b style={{ width: `${source.mappedRate * 100}%` }} /></i><em>{Math.round(source.mappedRate * 100)}% {copy.mapped}</em></Link> })}</div></section>
+      <section className="source-schema-section"><header><span>SOURCE / SCHEMA</span><h2>{copy.sourceOverview}</h2></header><div className="schema-list">{(dashboard?.sources ?? []).map((source) => { const fieldCount = source.fieldCount ?? source.columns.reduce((sum, file) => sum + file.fields.length, 0); return <Link to="/databases" key={source.id}><span>{source.label}</span><strong>{fieldCount}<small>{copy.fields}</small></strong><i><b style={{ width: `${source.mappedRate * 100}%` }} /></i><em>{Math.round(source.mappedRate * 100)}% {copy.mapped}</em></Link> })}</div></section>
     </main>
   )
 }

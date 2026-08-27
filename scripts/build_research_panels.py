@@ -198,6 +198,22 @@ SOURCE_META = {
 }
 
 
+DASHBOARD_SOURCE_FILES = {
+    "aiddata": ["aiddata_africa_clean.csv"],
+    "codf": ["bu_codf_africa_clean.csv"],
+    "cla": ["cla_africa_clean.csv"],
+    "debt": ["cancellation_africa_clean.csv", "restructuring_africa_clean.csv"],
+    "exports": ["africa_aid_data_clean.csv"],
+    "fdi": ["fdi_africa_panel.csv"],
+    "cofi": ["cofi_africa_clean.csv"],
+    "cgef": ["CGEF_Africa_2024_Cleaned.csv"],
+    "cgp": ["CGP_Africa_2025_Cleaned.csv"],
+    "chapo": ["chapo_africa_clean.csv"],
+    "ihme": ["ihme_dah_africa_clean.csv"],
+    "china_eu_finance": ["china_africa_finance_cleaned.csv"],
+}
+
+
 ANALYSIS_METRICS = [
     {"id": "aiddata", "label": "AidData commitments", "column": "aiddata_total_usd", "count": "aiddata_count", "category": "project_finance", "unit": "USD", "price_basis": "constant_2023_usd", "measure": "commitment"},
     {"id": "codf", "label": "CODF loan commitments", "column": "codf_total_usd", "count": "codf_count", "category": "project_finance", "unit": "USD", "price_basis": "nominal_usd", "measure": "loan_commitment"},
@@ -225,6 +241,16 @@ AMOUNT_SOURCES = ["aiddata", "codf", "cla", "cancel", "restruct", "cofi", "cgef"
 def read_rows(path: Path) -> Iterable[dict[str, str]]:
     with path.open("r", encoding="utf-8-sig", errors="replace", newline="") as handle:
         yield from csv.DictReader(handle)
+
+
+def dashboard_source_field_count(data_dir: Path, source: str) -> int:
+    """Count the fields in each cleaned source file without publishing raw headers."""
+    total = 0
+    for filename in DASHBOARD_SOURCE_FILES[source]:
+        with (data_dir / filename).open("r", encoding="utf-8-sig", errors="replace", newline="") as handle:
+            header = next(csv.reader(handle), [])
+        total += sum(bool(field.strip()) for field in header)
+    return total
 
 
 def write_csv(path: Path, rows: Iterable[dict], columns: list[str]) -> int:
@@ -1733,7 +1759,7 @@ def data_dictionary(wide_columns: list[str]) -> list[dict]:
     return rows
 
 
-def build_dashboard_from_panels(wide: list[dict], records: list[dict], ref: CountryReference, output: Path) -> dict:
+def build_dashboard_from_panels(wide: list[dict], records: list[dict], ref: CountryReference, data_dir: Path, output: Path) -> dict:
     source_counts = defaultdict(Counter)
     year_counts = defaultdict(Counter)
     source_metrics = defaultdict(lambda: defaultdict(lambda: {"value": 0.0, "known": 0}))
@@ -1801,6 +1827,7 @@ def build_dashboard_from_panels(wide: list[dict], records: list[dict], ref: Coun
             "id": source, "label": SOURCE_META.get(source, {}).get("label", display_labels.get(source, source.replace("_", " ").title())),
             "rows": rows, "mappedRows": rows, "mappedRate": 1, "metricKnownRate": 0,
             "yearMin": min(observed_years) if observed_years else None, "yearMax": max(observed_years) if observed_years else None,
+            "fieldCount": dashboard_source_field_count(data_dir, source),
             "columns": [],
         })
     latest_export_months = max(
@@ -1920,7 +1947,7 @@ def main() -> None:
 
     dashboard = None
     if args.dashboard_output:
-        dashboard = build_dashboard_from_panels(wide, records, ref, args.dashboard_output)
+        dashboard = build_dashboard_from_panels(wide, records, ref, args.data_dir, args.dashboard_output)
 
     summary = {
         "generatedAt": datetime.now(timezone.utc).isoformat(),
