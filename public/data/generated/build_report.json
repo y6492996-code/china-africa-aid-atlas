@@ -1,0 +1,75 @@
+{
+  "generatedAt": "2026-08-26T07:31:42.239483+00:00",
+  "parameters": {
+    "startYear": 2000,
+    "endYear": 2024,
+    "sovereignCountries": 54
+  },
+  "rows": {
+    "project_level_master": 13364,
+    "match_candidates": 4136,
+    "panel_skeleton": 1350,
+    "master_panel_wide": 1350,
+    "long_source": 10800,
+    "long_fundtype": 2826,
+    "data_dictionary": 327,
+    "match_review_queue": 0,
+    "match_review_decisions_applied": 1469,
+    "confirmed_match_groups": 2548,
+    "project_entity_index": 10377,
+    "project_quality_summary": 9,
+    "panel_missingness": 31,
+    "outlier_candidates": 17,
+    "source_descriptive_statistics": 14,
+    "annual_source_trends": 350,
+    "country_source_summary": 603,
+    "cross_source_correlations": 30,
+    "structural_break_models": 24,
+    "structural_breakpoints": 43,
+    "correlation_robustness": 30
+  },
+  "matching": {
+    "direct_reference": 3739,
+    "unmatched": 7748,
+    "human_confirmed": 925,
+    "auto_high_confidence": 871,
+    "reviewed_no_match": 81
+  },
+  "quality": {
+    "matchReviewQueueRows": 0,
+    "reviewDecisionsApplied": 1469,
+    "humanConfirmedSameProject": 969,
+    "confirmedMatchGroups": 2548,
+    "projectEntities": 10377,
+    "outlierCandidateRows": 17,
+    "panelVariablesProfiled": 31,
+    "imputationApplied": false,
+    "outliersRemoved": false
+  },
+  "empirical": {
+    "metricsProfiled": 14,
+    "annualRows": 350,
+    "countrySummaryRows": 603,
+    "correlationRows": 30,
+    "breakModels": 24,
+    "breakpoints": 43,
+    "robustnessRows": 30,
+    "outlierCandidatesExcludedInSensitivity": 17
+  },
+  "panelChecks": {
+    "expectedWideRows": 1350,
+    "actualWideRows": 1350,
+    "uniqueCountryYear": 1350,
+    "crossSourceAmountsSummed": false,
+    "missingAmountsReplacedWithZero": false
+  },
+  "dashboard": {
+    "sourceCount": 12,
+    "countryCount": 54,
+    "recordCount": 307332,
+    "yearMin": 2000,
+    "yearMax": 2024,
+    "trendComparisonYearMax": 2023,
+    "latestYearCoverage": "partial"
+  }
+}

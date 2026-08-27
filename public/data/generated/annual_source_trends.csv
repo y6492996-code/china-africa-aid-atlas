@@ -1,0 +1,351 @@
+﻿metric_id,metric_label,year,observed_country_count,record_count,total_value,mean_value,median_value,unit,price_basis,amount_measure,source_first_observed_year,source_last_observed_year,year_complete,coverage_status,coverage_note
+aiddata,AidData commitments,2000,22,74,1500094126.459418,68186096.657246,15523691.248307,USD,constant_2023_usd,commitment,2000,2023,,observed,annual_source_completeness_not_separately_reported
+aiddata,AidData commitments,2001,30,103,2689772720.901892,89659090.69673,48689957.162373,USD,constant_2023_usd,commitment,2000,2023,,observed,annual_source_completeness_not_separately_reported
+aiddata,AidData commitments,2002,33,126,2433159337.603129,73732101.139489,18525929.094979,USD,constant_2023_usd,commitment,2000,2023,,observed,annual_source_completeness_not_separately_reported
+aiddata,AidData commitments,2003,28,131,3325617152.935217,118772041.176258,12348829.348224,USD,constant_2023_usd,commitment,2000,2023,,observed,annual_source_completeness_not_separately_reported
+aiddata,AidData commitments,2004,32,145,2463331119.675838,76979097.48987,14072408.094309,USD,constant_2023_usd,commitment,2000,2023,,observed,annual_source_completeness_not_separately_reported
+aiddata,AidData commitments,2005,35,213,5733212435.785569,163806069.593873,17270633.757816,USD,constant_2023_usd,commitment,2000,2023,,observed,annual_source_completeness_not_separately_reported
+aiddata,AidData commitments,2006,41,256,16449765016.180624,401213780.882454,34321479.338909,USD,constant_2023_usd,commitment,2000,2023,,observed,annual_source_completeness_not_separately_reported
+aiddata,AidData commitments,2007,45,333,12290446171.749113,273121026.038869,65143168.41489,USD,constant_2023_usd,commitment,2000,2023,,observed,annual_source_completeness_not_separately_reported
+aiddata,AidData commitments,2008,40,293,18973245811.84081,474331145.29602,48865102.305629,USD,constant_2023_usd,commitment,2000,2023,,observed,annual_source_completeness_not_separately_reported
+aiddata,AidData commitments,2009,44,328,16286677915.395834,370151770.804451,53784227.796509,USD,constant_2023_usd,commitment,2000,2023,,observed,annual_source_completeness_not_separately_reported
+aiddata,AidData commitments,2010,37,289,12995419129.051512,351227544.028419,54421657.274199,USD,constant_2023_usd,commitment,2000,2023,,observed,annual_source_completeness_not_separately_reported
+aiddata,AidData commitments,2011,44,376,12939914451.399866,294088964.804542,88564605.768775,USD,constant_2023_usd,commitment,2000,2023,,observed,annual_source_completeness_not_separately_reported
+aiddata,AidData commitments,2012,41,352,20213683377.679604,493016667.748283,126334220.845912,USD,constant_2023_usd,commitment,2000,2023,,observed,annual_source_completeness_not_separately_reported
+aiddata,AidData commitments,2013,40,345,28509627911.805756,712740697.795144,200296439.479661,USD,constant_2023_usd,commitment,2000,2023,,observed,annual_source_completeness_not_separately_reported
+aiddata,AidData commitments,2014,42,361,19502307233.19339,464340648.409366,138201250.253797,USD,constant_2023_usd,commitment,2000,2023,,observed,annual_source_completeness_not_separately_reported
+aiddata,AidData commitments,2015,43,434,34752743225.2954,808203330.820823,71225568.828304,USD,constant_2023_usd,commitment,2000,2023,,observed,annual_source_completeness_not_separately_reported
+aiddata,AidData commitments,2016,46,508,22871807443.293705,497213205.288994,86189050.6847,USD,constant_2023_usd,commitment,2000,2023,,observed,annual_source_completeness_not_separately_reported
+aiddata,AidData commitments,2017,47,556,26783991446.79587,569872158.442465,83194827.16089,USD,constant_2023_usd,commitment,2000,2023,,observed,annual_source_completeness_not_separately_reported
+aiddata,AidData commitments,2018,50,758,26320163978.535748,526403279.570715,100136758.52749,USD,constant_2023_usd,commitment,2000,2023,,observed,annual_source_completeness_not_separately_reported
+aiddata,AidData commitments,2019,43,594,13951592906.781149,324455648.99491,98967138.977133,USD,constant_2023_usd,commitment,2000,2023,,observed,annual_source_completeness_not_separately_reported
+aiddata,AidData commitments,2020,47,685,12373957049.710268,263275681.908729,11759578.398217,USD,constant_2023_usd,commitment,2000,2023,,observed,annual_source_completeness_not_separately_reported
+aiddata,AidData commitments,2021,48,465,6369808358.394402,132704340.799883,22527377.760001,USD,constant_2023_usd,commitment,2000,2023,,observed,annual_source_completeness_not_separately_reported
+aiddata,AidData commitments,2022,40,412,2957803023.408101,73945075.585203,18803890.714504,USD,constant_2023_usd,commitment,2000,2023,,observed,annual_source_completeness_not_separately_reported
+aiddata,AidData commitments,2023,39,455,10249282512.772135,262802115.712106,9935282.01941,USD,constant_2023_usd,commitment,2000,2023,,observed,annual_source_completeness_not_separately_reported
+aiddata,AidData commitments,2024,0,0,,,,USD,constant_2023_usd,commitment,2000,2023,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+codf,CODF loan commitments,2000,0,0,,,,USD,nominal_usd,loan_commitment,2008,2024,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+codf,CODF loan commitments,2001,0,0,,,,USD,nominal_usd,loan_commitment,2008,2024,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+codf,CODF loan commitments,2002,0,0,,,,USD,nominal_usd,loan_commitment,2008,2024,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+codf,CODF loan commitments,2003,0,0,,,,USD,nominal_usd,loan_commitment,2008,2024,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+codf,CODF loan commitments,2004,0,0,,,,USD,nominal_usd,loan_commitment,2008,2024,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+codf,CODF loan commitments,2005,0,0,,,,USD,nominal_usd,loan_commitment,2008,2024,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+codf,CODF loan commitments,2006,0,0,,,,USD,nominal_usd,loan_commitment,2008,2024,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+codf,CODF loan commitments,2007,0,0,,,,USD,nominal_usd,loan_commitment,2008,2024,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+codf,CODF loan commitments,2008,12,27,3233360000.0,269446666.666667,228875000.0,USD,nominal_usd,loan_commitment,2008,2024,,observed,annual_source_completeness_not_separately_reported
+codf,CODF loan commitments,2009,18,39,4683250000.0,260180555.555556,143580000.0,USD,nominal_usd,loan_commitment,2008,2024,,observed,annual_source_completeness_not_separately_reported
+codf,CODF loan commitments,2010,18,32,3635280000.0,201960000.0,106185000.0,USD,nominal_usd,loan_commitment,2008,2024,,observed,annual_source_completeness_not_separately_reported
+codf,CODF loan commitments,2011,20,46,7808420000.0,390421000.0,170550000.0,USD,nominal_usd,loan_commitment,2008,2024,,observed,annual_source_completeness_not_separately_reported
+codf,CODF loan commitments,2012,24,49,11729190000.0,488716250.0,232620000.0,USD,nominal_usd,loan_commitment,2008,2024,,observed,annual_source_completeness_not_separately_reported
+codf,CODF loan commitments,2013,23,57,15684630000.0,681940434.782609,319500000.0,USD,nominal_usd,loan_commitment,2008,2024,,observed,annual_source_completeness_not_separately_reported
+codf,CODF loan commitments,2014,19,36,13767550000.0,724607894.736842,300000000.0,USD,nominal_usd,loan_commitment,2008,2024,,observed,annual_source_completeness_not_separately_reported
+codf,CODF loan commitments,2015,18,35,10649950000.0,591663888.888889,345160000.0,USD,nominal_usd,loan_commitment,2008,2024,,observed,annual_source_completeness_not_separately_reported
+codf,CODF loan commitments,2016,18,90,22812360000.0,1267353333.333333,307995000.0,USD,nominal_usd,loan_commitment,2008,2024,,observed,annual_source_completeness_not_separately_reported
+codf,CODF loan commitments,2017,17,47,10324290000.0,607311176.470588,379280000.0,USD,nominal_usd,loan_commitment,2008,2024,,observed,annual_source_completeness_not_separately_reported
+codf,CODF loan commitments,2018,23,36,10581480000.0,460064347.826087,161630000.0,USD,nominal_usd,loan_commitment,2008,2024,,observed,annual_source_completeness_not_separately_reported
+codf,CODF loan commitments,2019,14,23,4532580000.0,323755714.285714,219200000.0,USD,nominal_usd,loan_commitment,2008,2024,,observed,annual_source_completeness_not_separately_reported
+codf,CODF loan commitments,2020,9,13,1666130000.0,185125555.555556,132000000.0,USD,nominal_usd,loan_commitment,2008,2024,,observed,annual_source_completeness_not_separately_reported
+codf,CODF loan commitments,2021,2,3,339340000.0,169670000.0,169670000.0,USD,nominal_usd,loan_commitment,2008,2024,,observed,annual_source_completeness_not_separately_reported
+codf,CODF loan commitments,2022,6,6,474250000.0,79041666.666667,48020000.0,USD,nominal_usd,loan_commitment,2008,2024,,observed,annual_source_completeness_not_separately_reported
+codf,CODF loan commitments,2023,6,8,2451530000.0,408588333.333333,256955000.0,USD,nominal_usd,loan_commitment,2008,2024,,observed,annual_source_completeness_not_separately_reported
+codf,CODF loan commitments,2024,5,9,1973190000.0,394638000.0,121090000.0,USD,nominal_usd,loan_commitment,2008,2024,,observed,annual_source_completeness_not_separately_reported
+cla,CLA loan commitments,2000,11,12,97480000.0,8861818.181818,6040000.0,USD,nominal_usd,loan_commitment,2000,2024,,observed,annual_source_completeness_not_separately_reported
+cla,CLA loan commitments,2001,14,19,282020000.0,20144285.714286,11095000.0,USD,nominal_usd,loan_commitment,2000,2024,,observed,annual_source_completeness_not_separately_reported
+cla,CLA loan commitments,2002,9,22,714940000.0,79437777.777778,14500000.0,USD,nominal_usd,loan_commitment,2000,2024,,observed,annual_source_completeness_not_separately_reported
+cla,CLA loan commitments,2003,14,27,1733240000.0,123802857.142857,25020000.0,USD,nominal_usd,loan_commitment,2000,2024,,observed,annual_source_completeness_not_separately_reported
+cla,CLA loan commitments,2004,16,31,1091550000.0,68221875.0,9435000.0,USD,nominal_usd,loan_commitment,2000,2024,,observed,annual_source_completeness_not_separately_reported
+cla,CLA loan commitments,2005,18,65,2209940000.0,122774444.444444,16695000.0,USD,nominal_usd,loan_commitment,2000,2024,,observed,annual_source_completeness_not_separately_reported
+cla,CLA loan commitments,2006,25,69,5779400000.0,231176000.0,43360000.0,USD,nominal_usd,loan_commitment,2000,2024,,observed,annual_source_completeness_not_separately_reported
+cla,CLA loan commitments,2007,24,79,4788160000.0,199506666.666667,50295000.0,USD,nominal_usd,loan_commitment,2000,2024,,observed,annual_source_completeness_not_separately_reported
+cla,CLA loan commitments,2008,20,46,3869540000.0,193477000.0,113380000.0,USD,nominal_usd,loan_commitment,2000,2024,,observed,annual_source_completeness_not_separately_reported
+cla,CLA loan commitments,2009,24,70,7173640000.0,298901666.666667,107795000.0,USD,nominal_usd,loan_commitment,2000,2024,,observed,annual_source_completeness_not_separately_reported
+cla,CLA loan commitments,2010,26,63,7092310000.0,272781153.846154,91195000.0,USD,nominal_usd,loan_commitment,2000,2024,,observed,annual_source_completeness_not_separately_reported
+cla,CLA loan commitments,2011,30,83,9066460000.0,302215333.333333,99295000.0,USD,nominal_usd,loan_commitment,2000,2024,,observed,annual_source_completeness_not_separately_reported
+cla,CLA loan commitments,2012,29,69,12581960000.0,433860689.655172,200000000.0,USD,nominal_usd,loan_commitment,2000,2024,,observed,annual_source_completeness_not_separately_reported
+cla,CLA loan commitments,2013,23,82,17881440000.0,777453913.043478,274070000.0,USD,nominal_usd,loan_commitment,2000,2024,,observed,annual_source_completeness_not_separately_reported
+cla,CLA loan commitments,2014,23,56,13709420000.0,596061739.130435,214000000.0,USD,nominal_usd,loan_commitment,2000,2024,,observed,annual_source_completeness_not_separately_reported
+cla,CLA loan commitments,2015,20,66,10666830000.0,533341500.0,163990000.0,USD,nominal_usd,loan_commitment,2000,2024,,observed,annual_source_completeness_not_separately_reported
+cla,CLA loan commitments,2016,21,146,28687780000.0,1366084761.904762,206980000.0,USD,nominal_usd,loan_commitment,2000,2024,,observed,annual_source_completeness_not_separately_reported
+cla,CLA loan commitments,2017,22,68,13923480000.0,632885454.545455,285775000.0,USD,nominal_usd,loan_commitment,2000,2024,,observed,annual_source_completeness_not_separately_reported
+cla,CLA loan commitments,2018,24,75,15696860000.0,654035833.333333,206045000.0,USD,nominal_usd,loan_commitment,2000,2024,,observed,annual_source_completeness_not_separately_reported
+cla,CLA loan commitments,2019,20,34,5307750000.0,265387500.0,174345000.0,USD,nominal_usd,loan_commitment,2000,2024,,observed,annual_source_completeness_not_separately_reported
+cla,CLA loan commitments,2020,11,16,1828150000.0,166195454.545455,100420000.0,USD,nominal_usd,loan_commitment,2000,2024,,observed,annual_source_completeness_not_separately_reported
+cla,CLA loan commitments,2021,3,7,729590000.0,243196666.666667,178200000.0,USD,nominal_usd,loan_commitment,2000,2024,,observed,annual_source_completeness_not_separately_reported
+cla,CLA loan commitments,2022,9,10,880900000.0,97877777.777778,39330000.0,USD,nominal_usd,loan_commitment,2000,2024,,observed,annual_source_completeness_not_separately_reported
+cla,CLA loan commitments,2023,7,9,2537610000.0,362515714.285714,249000000.0,USD,nominal_usd,loan_commitment,2000,2024,,observed,annual_source_completeness_not_separately_reported
+cla,CLA loan commitments,2024,5,20,2129890000.0,425978000.0,240000000.0,USD,nominal_usd,loan_commitment,2000,2024,,observed,annual_source_completeness_not_separately_reported
+cancel,Debt cancellation,2000,0,0,,,,USD,nominal_usd,debt_cancellation,2001,2019,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+cancel,Debt cancellation,2001,16,18,543278000.0,33954875.0,27549000.0,USD,nominal_usd,debt_cancellation,2001,2019,,observed,annual_source_completeness_not_separately_reported
+cancel,Debt cancellation,2002,4,4,152300000.0,38075000.0,35650000.0,USD,nominal_usd,debt_cancellation,2001,2019,,observed,annual_source_completeness_not_separately_reported
+cancel,Debt cancellation,2003,1,1,3000000.0,3000000.0,3000000.0,USD,nominal_usd,debt_cancellation,2001,2019,,observed,annual_source_completeness_not_separately_reported
+cancel,Debt cancellation,2004,0,0,,,,USD,nominal_usd,debt_cancellation,2001,2019,False,no_observations_within_source_span,no_value_observed_in_loaded_source_extract
+cancel,Debt cancellation,2005,4,4,58800000.0,14700000.0,5400000.0,USD,nominal_usd,debt_cancellation,2001,2019,,observed,annual_source_completeness_not_separately_reported
+cancel,Debt cancellation,2006,6,7,370900000.0,61816666.666667,30250000.0,USD,nominal_usd,debt_cancellation,2001,2019,,observed,annual_source_completeness_not_separately_reported
+cancel,Debt cancellation,2007,23,30,594620000.0,25853043.478261,20000000.0,USD,nominal_usd,debt_cancellation,2001,2019,,observed,annual_source_completeness_not_separately_reported
+cancel,Debt cancellation,2008,0,0,,,,USD,nominal_usd,debt_cancellation,2001,2019,False,no_observations_within_source_span,no_value_observed_in_loaded_source_extract
+cancel,Debt cancellation,2009,1,1,3000000.0,3000000.0,3000000.0,USD,nominal_usd,debt_cancellation,2001,2019,,observed,annual_source_completeness_not_separately_reported
+cancel,Debt cancellation,2010,2,2,10010000.0,5005000.0,5005000.0,USD,nominal_usd,debt_cancellation,2001,2019,,observed,annual_source_completeness_not_separately_reported
+cancel,Debt cancellation,2011,2,3,75000000.0,37500000.0,37500000.0,USD,nominal_usd,debt_cancellation,2001,2019,,observed,annual_source_completeness_not_separately_reported
+cancel,Debt cancellation,2012,1,4,16000000.0,16000000.0,16000000.0,USD,nominal_usd,debt_cancellation,2001,2019,,observed,annual_source_completeness_not_separately_reported
+cancel,Debt cancellation,2013,0,0,,,,USD,nominal_usd,debt_cancellation,2001,2019,False,no_observations_within_source_span,no_value_observed_in_loaded_source_extract
+cancel,Debt cancellation,2014,0,0,,,,USD,nominal_usd,debt_cancellation,2001,2019,False,no_observations_within_source_span,no_value_observed_in_loaded_source_extract
+cancel,Debt cancellation,2015,1,1,40000000.0,40000000.0,40000000.0,USD,nominal_usd,debt_cancellation,2001,2019,,observed,annual_source_completeness_not_separately_reported
+cancel,Debt cancellation,2016,2,2,9880000.0,4940000.0,4940000.0,USD,nominal_usd,debt_cancellation,2001,2019,,observed,annual_source_completeness_not_separately_reported
+cancel,Debt cancellation,2017,6,6,114760000.0,19126666.666667,20160000.0,USD,nominal_usd,debt_cancellation,2001,2019,,observed,annual_source_completeness_not_separately_reported
+cancel,Debt cancellation,2018,3,5,24890000.0,8296666.666667,7760000.0,USD,nominal_usd,debt_cancellation,2001,2019,,observed,annual_source_completeness_not_separately_reported
+cancel,Debt cancellation,2019,5,6,232560000.0,46512000.0,40000000.0,USD,nominal_usd,debt_cancellation,2001,2019,,observed,annual_source_completeness_not_separately_reported
+cancel,Debt cancellation,2020,0,0,,,,USD,nominal_usd,debt_cancellation,2001,2019,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+cancel,Debt cancellation,2021,0,0,,,,USD,nominal_usd,debt_cancellation,2001,2019,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+cancel,Debt cancellation,2022,0,0,,,,USD,nominal_usd,debt_cancellation,2001,2019,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+cancel,Debt cancellation,2023,0,0,,,,USD,nominal_usd,debt_cancellation,2001,2019,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+cancel,Debt cancellation,2024,0,0,,,,USD,nominal_usd,debt_cancellation,2001,2019,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+restruct,Debt restructuring,2000,0,0,,,,USD,nominal_usd,debt_restructuring,2002,2019,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+restruct,Debt restructuring,2001,0,0,,,,USD,nominal_usd,debt_restructuring,2002,2019,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+restruct,Debt restructuring,2002,1,1,5150000.0,5150000.0,5150000.0,USD,nominal_usd,debt_restructuring,2002,2019,,observed,annual_source_completeness_not_separately_reported
+restruct,Debt restructuring,2003,1,1,42000000.0,42000000.0,42000000.0,USD,nominal_usd,debt_restructuring,2002,2019,,observed,annual_source_completeness_not_separately_reported
+restruct,Debt restructuring,2004,2,2,35000000.0,17500000.0,17500000.0,USD,nominal_usd,debt_restructuring,2002,2019,,observed,annual_source_completeness_not_separately_reported
+restruct,Debt restructuring,2005,0,0,,,,USD,nominal_usd,debt_restructuring,2002,2019,False,no_observations_within_source_span,no_value_observed_in_loaded_source_extract
+restruct,Debt restructuring,2006,0,0,,,,USD,nominal_usd,debt_restructuring,2002,2019,False,no_observations_within_source_span,no_value_observed_in_loaded_source_extract
+restruct,Debt restructuring,2007,1,1,55000000.0,55000000.0,55000000.0,USD,nominal_usd,debt_restructuring,2002,2019,,observed,annual_source_completeness_not_separately_reported
+restruct,Debt restructuring,2008,0,0,,,,USD,nominal_usd,debt_restructuring,2002,2019,False,no_observations_within_source_span,no_value_observed_in_loaded_source_extract
+restruct,Debt restructuring,2009,0,0,,,,USD,nominal_usd,debt_restructuring,2002,2019,False,no_observations_within_source_span,no_value_observed_in_loaded_source_extract
+restruct,Debt restructuring,2010,1,1,55000000.0,55000000.0,55000000.0,USD,nominal_usd,debt_restructuring,2002,2019,,observed,annual_source_completeness_not_separately_reported
+restruct,Debt restructuring,2011,1,1,24000000.0,24000000.0,24000000.0,USD,nominal_usd,debt_restructuring,2002,2019,,observed,annual_source_completeness_not_separately_reported
+restruct,Debt restructuring,2012,1,2,200000000.0,200000000.0,200000000.0,USD,nominal_usd,debt_restructuring,2002,2019,,observed,annual_source_completeness_not_separately_reported
+restruct,Debt restructuring,2013,0,0,,,,USD,nominal_usd,debt_restructuring,2002,2019,False,no_observations_within_source_span,no_value_observed_in_loaded_source_extract
+restruct,Debt restructuring,2014,0,0,,,,USD,nominal_usd,debt_restructuring,2002,2019,False,no_observations_within_source_span,no_value_observed_in_loaded_source_extract
+restruct,Debt restructuring,2015,0,0,,,,USD,nominal_usd,debt_restructuring,2002,2019,False,no_observations_within_source_span,no_value_observed_in_loaded_source_extract
+restruct,Debt restructuring,2016,1,1,7500000000.0,7500000000.0,7500000000.0,USD,nominal_usd,debt_restructuring,2002,2019,,observed,annual_source_completeness_not_separately_reported
+restruct,Debt restructuring,2017,2,2,2467000000.0,1233500000.0,1233500000.0,USD,nominal_usd,debt_restructuring,2002,2019,,observed,annual_source_completeness_not_separately_reported
+restruct,Debt restructuring,2018,3,3,2767000000.0,922333333.333333,161000000.0,USD,nominal_usd,debt_restructuring,2002,2019,,observed,annual_source_completeness_not_separately_reported
+restruct,Debt restructuring,2019,2,2,1865000000.0,932500000.0,932500000.0,USD,nominal_usd,debt_restructuring,2002,2019,,observed,annual_source_completeness_not_separately_reported
+restruct,Debt restructuring,2020,0,0,,,,USD,nominal_usd,debt_restructuring,2002,2019,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+restruct,Debt restructuring,2021,0,0,,,,USD,nominal_usd,debt_restructuring,2002,2019,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+restruct,Debt restructuring,2022,0,0,,,,USD,nominal_usd,debt_restructuring,2002,2019,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+restruct,Debt restructuring,2023,0,0,,,,USD,nominal_usd,debt_restructuring,2002,2019,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+restruct,Debt restructuring,2024,0,0,,,,USD,nominal_usd,debt_restructuring,2002,2019,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+cofi,COFI investment,2000,1,1,149000000.0,149000000.0,149000000.0,USD,nominal_usd,investment,2000,2020,,observed,annual_source_completeness_not_separately_reported
+cofi,COFI investment,2001,0,0,,,,USD,nominal_usd,investment,2000,2020,False,no_observations_within_source_span,no_value_observed_in_loaded_source_extract
+cofi,COFI investment,2002,3,6,286190000.0,95396666.666667,50000000.0,USD,nominal_usd,investment,2000,2020,,observed,annual_source_completeness_not_separately_reported
+cofi,COFI investment,2003,2,4,846000000.0,423000000.0,423000000.0,USD,nominal_usd,investment,2000,2020,,observed,annual_source_completeness_not_separately_reported
+cofi,COFI investment,2004,0,0,,,,USD,nominal_usd,investment,2000,2020,False,no_observations_within_source_span,no_value_observed_in_loaded_source_extract
+cofi,COFI investment,2005,1,1,175000000.0,175000000.0,175000000.0,USD,nominal_usd,investment,2000,2020,,observed,annual_source_completeness_not_separately_reported
+cofi,COFI investment,2006,2,3,262000000.0,131000000.0,131000000.0,USD,nominal_usd,investment,2000,2020,,observed,annual_source_completeness_not_separately_reported
+cofi,COFI investment,2007,2,3,714000000.0,357000000.0,357000000.0,USD,nominal_usd,investment,2000,2020,,observed,annual_source_completeness_not_separately_reported
+cofi,COFI investment,2008,3,3,852000000.0,284000000.0,316000000.0,USD,nominal_usd,investment,2000,2020,,observed,annual_source_completeness_not_separately_reported
+cofi,COFI investment,2009,6,10,2943674900.0,490612483.333333,438000000.0,USD,nominal_usd,investment,2000,2020,,observed,annual_source_completeness_not_separately_reported
+cofi,COFI investment,2010,2,3,623000000.0,311500000.0,311500000.0,USD,nominal_usd,investment,2000,2020,,observed,annual_source_completeness_not_separately_reported
+cofi,COFI investment,2011,4,4,1009000000.0,252250000.0,306000000.0,USD,nominal_usd,investment,2000,2020,,observed,annual_source_completeness_not_separately_reported
+cofi,COFI investment,2012,4,5,1711000000.0,427750000.0,351000000.0,USD,nominal_usd,investment,2000,2020,,observed,annual_source_completeness_not_separately_reported
+cofi,COFI investment,2013,9,12,3188450000.0,354272222.222222,293250000.0,USD,nominal_usd,investment,2000,2020,,observed,annual_source_completeness_not_separately_reported
+cofi,COFI investment,2014,5,7,1062400000.0,212480000.0,112000000.0,USD,nominal_usd,investment,2000,2020,,observed,annual_source_completeness_not_separately_reported
+cofi,COFI investment,2015,7,8,4113292931.71989,587613275.959984,229000000.0,USD,nominal_usd,investment,2000,2020,,observed,annual_source_completeness_not_separately_reported
+cofi,COFI investment,2016,5,8,4726250000.0,945250000.0,81000000.0,USD,nominal_usd,investment,2000,2020,,observed,annual_source_completeness_not_separately_reported
+cofi,COFI investment,2017,7,16,6908615000.0,986945000.0,152760000.0,USD,nominal_usd,investment,2000,2020,,observed,annual_source_completeness_not_separately_reported
+cofi,COFI investment,2018,8,14,7326831665.478636,915853958.184829,432000000.0,USD,nominal_usd,investment,2000,2020,,observed,annual_source_completeness_not_separately_reported
+cofi,COFI investment,2019,3,4,2102000000.0,700666666.666667,812000000.0,USD,nominal_usd,investment,2000,2020,,observed,annual_source_completeness_not_separately_reported
+cofi,COFI investment,2020,2,3,284000000.0,142000000.0,142000000.0,USD,nominal_usd,investment,2000,2020,,observed,annual_source_completeness_not_separately_reported
+cofi,COFI investment,2021,0,0,,,,USD,nominal_usd,investment,2000,2020,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+cofi,COFI investment,2022,0,0,,,,USD,nominal_usd,investment,2000,2020,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+cofi,COFI investment,2023,0,1,,,,USD,nominal_usd,investment,2000,2020,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+cofi,COFI investment,2024,0,0,,,,USD,nominal_usd,investment,2000,2020,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+cgef,CGEF loan commitments,2000,0,0,,,,USD,nominal_usd,loan_commitment,2002,2023,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+cgef,CGEF loan commitments,2001,0,0,,,,USD,nominal_usd,loan_commitment,2002,2023,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+cgef,CGEF loan commitments,2002,2,5,105700000.0,52850000.0,52850000.0,USD,nominal_usd,loan_commitment,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgef,CGEF loan commitments,2003,1,2,989000000.0,989000000.0,989000000.0,USD,nominal_usd,loan_commitment,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgef,CGEF loan commitments,2004,1,1,40060000.0,40060000.0,40060000.0,USD,nominal_usd,loan_commitment,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgef,CGEF loan commitments,2005,2,6,270440000.0,135220000.0,135220000.0,USD,nominal_usd,loan_commitment,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgef,CGEF loan commitments,2006,3,3,281030000.0,93676666.666667,19430000.0,USD,nominal_usd,loan_commitment,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgef,CGEF loan commitments,2007,5,10,959050000.0,191810000.0,120640000.0,USD,nominal_usd,loan_commitment,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgef,CGEF loan commitments,2008,4,11,1104840000.0,276210000.0,271670000.0,USD,nominal_usd,loan_commitment,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgef,CGEF loan commitments,2009,5,7,1868090000.0,373618000.0,270000000.0,USD,nominal_usd,loan_commitment,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgef,CGEF loan commitments,2010,7,8,936780000.0,133825714.285714,99450000.0,USD,nominal_usd,loan_commitment,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgef,CGEF loan commitments,2011,7,7,3327870000.0,475410000.0,188300000.0,USD,nominal_usd,loan_commitment,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgef,CGEF loan commitments,2012,5,8,3694260000.0,738852000.0,1000000000.0,USD,nominal_usd,loan_commitment,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgef,CGEF loan commitments,2013,13,18,6851470000.0,527036153.846154,183230000.0,USD,nominal_usd,loan_commitment,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgef,CGEF loan commitments,2014,7,8,3173320000.0,453331428.571429,107490000.0,USD,nominal_usd,loan_commitment,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgef,CGEF loan commitments,2015,5,7,2884180000.0,576836000.0,509430000.0,USD,nominal_usd,loan_commitment,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgef,CGEF loan commitments,2016,8,17,17400870000.0,2175108750.0,395160000.0,USD,nominal_usd,loan_commitment,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgef,CGEF loan commitments,2017,6,13,4925840000.0,820973333.333333,668765000.0,USD,nominal_usd,loan_commitment,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgef,CGEF loan commitments,2018,4,4,3977110000.0,994277500.0,737000000.0,USD,nominal_usd,loan_commitment,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgef,CGEF loan commitments,2019,4,5,681040000.0,170260000.0,154325000.0,USD,nominal_usd,loan_commitment,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgef,CGEF loan commitments,2020,2,2,280830000.0,140415000.0,140415000.0,USD,nominal_usd,loan_commitment,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgef,CGEF loan commitments,2021,0,0,,,,USD,nominal_usd,loan_commitment,2002,2023,False,no_observations_within_source_span,no_value_observed_in_loaded_source_extract
+cgef,CGEF loan commitments,2022,0,0,,,,USD,nominal_usd,loan_commitment,2002,2023,False,no_observations_within_source_span,no_value_observed_in_loaded_source_extract
+cgef,CGEF loan commitments,2023,3,3,501980000.0,167326666.666667,211850000.0,USD,nominal_usd,loan_commitment,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgef,CGEF loan commitments,2024,0,0,,,,USD,nominal_usd,loan_commitment,2002,2023,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+chapo,CHAPO commitments,2000,3,18,47812498.267723,15937499.422574,20531653.830362,USD,constant_2021_usd,commitment,2000,2021,,observed,annual_source_completeness_not_separately_reported
+chapo,CHAPO commitments,2001,4,16,63086056.713367,15771514.178342,8612422.923202,USD,constant_2021_usd,commitment,2000,2021,,observed,annual_source_completeness_not_separately_reported
+chapo,CHAPO commitments,2002,7,28,50790255.805721,7255750.829389,2499454.902004,USD,constant_2021_usd,commitment,2000,2021,,observed,annual_source_completeness_not_separately_reported
+chapo,CHAPO commitments,2003,7,27,24953304.578221,3564757.796889,276023.018313,USD,constant_2021_usd,commitment,2000,2021,,observed,annual_source_completeness_not_separately_reported
+chapo,CHAPO commitments,2004,5,27,10668705.078907,2133741.015781,1138826.060943,USD,constant_2021_usd,commitment,2000,2021,,observed,annual_source_completeness_not_separately_reported
+chapo,CHAPO commitments,2005,7,44,513921667.51132,73417381.073046,1085116.674807,USD,constant_2021_usd,commitment,2000,2021,,observed,annual_source_completeness_not_separately_reported
+chapo,CHAPO commitments,2006,17,60,146014483.563893,8589087.268464,764621.193845,USD,constant_2021_usd,commitment,2000,2021,,observed,annual_source_completeness_not_separately_reported
+chapo,CHAPO commitments,2007,19,68,302947004.878853,15944579.20415,473103.668737,USD,constant_2021_usd,commitment,2000,2021,,observed,annual_source_completeness_not_separately_reported
+chapo,CHAPO commitments,2008,20,72,155840013.379534,7792000.668977,3764832.459128,USD,constant_2021_usd,commitment,2000,2021,,observed,annual_source_completeness_not_separately_reported
+chapo,CHAPO commitments,2009,23,90,279479355.425057,12151276.322829,10988860.581097,USD,constant_2021_usd,commitment,2000,2021,,observed,annual_source_completeness_not_separately_reported
+chapo,CHAPO commitments,2010,14,66,121519886.197531,8679991.871252,2003648.93979,USD,constant_2021_usd,commitment,2000,2021,,observed,annual_source_completeness_not_separately_reported
+chapo,CHAPO commitments,2011,15,74,292147178.801113,19476478.586741,2187871.273867,USD,constant_2021_usd,commitment,2000,2021,,observed,annual_source_completeness_not_separately_reported
+chapo,CHAPO commitments,2012,17,60,298423981.274753,17554351.839691,1761185.336889,USD,constant_2021_usd,commitment,2000,2021,,observed,annual_source_completeness_not_separately_reported
+chapo,CHAPO commitments,2013,26,71,203447980.836015,7824922.339847,1235871.997343,USD,constant_2021_usd,commitment,2000,2021,,observed,annual_source_completeness_not_separately_reported
+chapo,CHAPO commitments,2014,21,77,161134054.083684,7673050.194461,898396.36829,USD,constant_2021_usd,commitment,2000,2021,,observed,annual_source_completeness_not_separately_reported
+chapo,CHAPO commitments,2015,13,67,252545706.944777,19426592.841906,1458958.240453,USD,constant_2021_usd,commitment,2000,2021,,observed,annual_source_completeness_not_separately_reported
+chapo,CHAPO commitments,2016,19,82,200641835.159961,10560096.587366,624683.993985,USD,constant_2021_usd,commitment,2000,2021,,observed,annual_source_completeness_not_separately_reported
+chapo,CHAPO commitments,2017,16,102,168867420.5022,10554213.781388,925662.674294,USD,constant_2021_usd,commitment,2000,2021,,observed,annual_source_completeness_not_separately_reported
+chapo,CHAPO commitments,2018,25,134,643443198.981341,25737727.959254,834812.911062,USD,constant_2021_usd,commitment,2000,2021,,observed,annual_source_completeness_not_separately_reported
+chapo,CHAPO commitments,2019,19,109,31167238.621347,1640380.980071,147421.63388,USD,constant_2021_usd,commitment,2000,2021,,observed,annual_source_completeness_not_separately_reported
+chapo,CHAPO commitments,2020,49,473,91825845.063598,1873996.838033,1174521.63356,USD,constant_2021_usd,commitment,2000,2021,,observed,annual_source_completeness_not_separately_reported
+chapo,CHAPO commitments,2021,49,207,834045636.519591,17021339.520808,9000000.0,USD,constant_2021_usd,commitment,2000,2021,,observed,annual_source_completeness_not_separately_reported
+chapo,CHAPO commitments,2022,0,0,,,,USD,constant_2021_usd,commitment,2000,2021,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+chapo,CHAPO commitments,2023,0,0,,,,USD,constant_2021_usd,commitment,2000,2021,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+chapo,CHAPO commitments,2024,0,0,,,,USD,constant_2021_usd,commitment,2000,2021,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+aidexports,Aid exports,2000,0,0,,,,USD,nominal_usd,monthly_exports_annual_sum,2015,2024,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+aidexports,Aid exports,2001,0,0,,,,USD,nominal_usd,monthly_exports_annual_sum,2015,2024,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+aidexports,Aid exports,2002,0,0,,,,USD,nominal_usd,monthly_exports_annual_sum,2015,2024,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+aidexports,Aid exports,2003,0,0,,,,USD,nominal_usd,monthly_exports_annual_sum,2015,2024,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+aidexports,Aid exports,2004,0,0,,,,USD,nominal_usd,monthly_exports_annual_sum,2015,2024,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+aidexports,Aid exports,2005,0,0,,,,USD,nominal_usd,monthly_exports_annual_sum,2015,2024,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+aidexports,Aid exports,2006,0,0,,,,USD,nominal_usd,monthly_exports_annual_sum,2015,2024,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+aidexports,Aid exports,2007,0,0,,,,USD,nominal_usd,monthly_exports_annual_sum,2015,2024,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+aidexports,Aid exports,2008,0,0,,,,USD,nominal_usd,monthly_exports_annual_sum,2015,2024,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+aidexports,Aid exports,2009,0,0,,,,USD,nominal_usd,monthly_exports_annual_sum,2015,2024,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+aidexports,Aid exports,2010,0,0,,,,USD,nominal_usd,monthly_exports_annual_sum,2015,2024,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+aidexports,Aid exports,2011,0,0,,,,USD,nominal_usd,monthly_exports_annual_sum,2015,2024,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+aidexports,Aid exports,2012,0,0,,,,USD,nominal_usd,monthly_exports_annual_sum,2015,2024,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+aidexports,Aid exports,2013,0,0,,,,USD,nominal_usd,monthly_exports_annual_sum,2015,2024,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+aidexports,Aid exports,2014,0,0,,,,USD,nominal_usd,monthly_exports_annual_sum,2015,2024,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+aidexports,Aid exports,2015,54,648,217001691.0,4018549.833333,2021510.0,USD,nominal_usd,monthly_exports_annual_sum,2015,2024,True,observed_full_year,maximum_12_months_observed_per_country
+aidexports,Aid exports,2016,54,648,171664778.0,3178977.37037,2091158.0,USD,nominal_usd,monthly_exports_annual_sum,2015,2024,True,observed_full_year,maximum_12_months_observed_per_country
+aidexports,Aid exports,2017,54,648,276976815.0,5129200.277778,4048833.0,USD,nominal_usd,monthly_exports_annual_sum,2015,2024,True,observed_full_year,maximum_12_months_observed_per_country
+aidexports,Aid exports,2018,54,648,270033991.0,5000629.462963,4727582.0,USD,nominal_usd,monthly_exports_annual_sum,2015,2024,True,observed_full_year,maximum_12_months_observed_per_country
+aidexports,Aid exports,2019,54,648,346901579.0,6424103.314815,3607989.0,USD,nominal_usd,monthly_exports_annual_sum,2015,2024,True,observed_full_year,maximum_12_months_observed_per_country
+aidexports,Aid exports,2020,54,648,254673590.0,4716177.592593,1891414.0,USD,nominal_usd,monthly_exports_annual_sum,2015,2024,True,observed_full_year,maximum_12_months_observed_per_country
+aidexports,Aid exports,2021,54,648,402052274.0,7445412.481481,4713374.0,USD,nominal_usd,monthly_exports_annual_sum,2015,2024,True,observed_full_year,maximum_12_months_observed_per_country
+aidexports,Aid exports,2022,54,648,254523162.0,4713391.888889,2160006.0,USD,nominal_usd,monthly_exports_annual_sum,2015,2024,True,observed_full_year,maximum_12_months_observed_per_country
+aidexports,Aid exports,2023,54,648,188091525.0,3483176.388889,1702973.5,USD,nominal_usd,monthly_exports_annual_sum,2015,2024,True,observed_full_year,maximum_12_months_observed_per_country
+aidexports,Aid exports,2024,54,324,98185791.0,1818255.388889,575647.0,USD,nominal_usd,monthly_exports_annual_sum,2015,2024,False,observed_partial_year,maximum_6_months_observed_per_country
+fdi_stock,FDI stock,2000,0,,,,,USD,nominal_usd,stock,2003,2024,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+fdi_stock,FDI stock,2001,0,,,,,USD,nominal_usd,stock,2003,2024,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+fdi_stock,FDI stock,2002,0,,,,,USD,nominal_usd,stock,2003,2024,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+fdi_stock,FDI stock,2003,54,,490680000.0,9086666.666667,1990000.0,USD,nominal_usd,stock,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_stock,FDI stock,2004,54,,727950000.0,13480555.555556,4700000.0,USD,nominal_usd,stock,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_stock,FDI stock,2005,54,,1243700000.0,23031481.481481,8330000.0,USD,nominal_usd,stock,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_stock,FDI stock,2006,54,,2059690000.0,38142407.407407,15675000.0,USD,nominal_usd,stock,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_stock,FDI stock,2007,54,,3886980000.0,71981111.111111,28915000.0,USD,nominal_usd,stock,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_stock,FDI stock,2008,54,,7275590000.0,134733148.148148,26710000.0,USD,nominal_usd,stock,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_stock,FDI stock,2009,54,,8768380000.0,162377407.407407,47480000.0,USD,nominal_usd,stock,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_stock,FDI stock,2010,54,,12428760000.0,230162222.222222,51810000.0,USD,nominal_usd,stock,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_stock,FDI stock,2011,54,,16244320000.0,300820740.740741,82095000.0,USD,nominal_usd,stock,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_stock,FDI stock,2012,54,,21729710000.0,402402037.037037,104965000.0,USD,nominal_usd,stock,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_stock,FDI stock,2013,54,,26185770000.0,484921666.666667,182290000.0,USD,nominal_usd,stock,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_stock,FDI stock,2014,54,,32350070000.0,599075370.37037,189245000.0,USD,nominal_usd,stock,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_stock,FDI stock,2015,54,,34694400000.0,642488888.888889,238025000.0,USD,nominal_usd,stock,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_stock,FDI stock,2016,54,,39877470000.0,738471666.666667,278175000.0,USD,nominal_usd,stock,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_stock,FDI stock,2017,54,,43296490000.0,801786851.851852,343190000.0,USD,nominal_usd,stock,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_stock,FDI stock,2018,54,,46103520000.0,853768888.888889,403985000.0,USD,nominal_usd,stock,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_stock,FDI stock,2019,54,,44390210000.0,822040925.925926,301360000.0,USD,nominal_usd,stock,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_stock,FDI stock,2020,54,,43399236965.04,803689573.426667,345450000.0,USD,nominal_usd,stock,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_stock,FDI stock,2021,54,,44186180000.0,818262592.592593,301760000.0,USD,nominal_usd,stock,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_stock,FDI stock,2022,54,,40901170000.0,757429074.074074,258545000.0,USD,nominal_usd,stock,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_stock,FDI stock,2023,54,,42115300000.0,779912962.962963,246275000.0,USD,nominal_usd,stock,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_stock,FDI stock,2024,54,,43798960000.0,811091851.851852,228800000.0,USD,nominal_usd,stock,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_flow,FDI flow,2000,0,,,,,USD,nominal_usd,flow,2003,2024,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+fdi_flow,FDI flow,2001,0,,,,,USD,nominal_usd,flow,2003,2024,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+fdi_flow,FDI flow,2002,0,,,,,USD,nominal_usd,flow,2003,2024,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+fdi_flow,FDI flow,2003,54,,74810000.0,1385370.37037,35000.0,USD,nominal_usd,flow,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_flow,FDI flow,2004,54,,170730000.0,3161666.666667,245000.0,USD,nominal_usd,flow,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_flow,FDI flow,2005,54,,300550000.0,5565740.740741,480000.0,USD,nominal_usd,flow,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_flow,FDI flow,2006,54,,469070000.0,8686481.481481,740000.0,USD,nominal_usd,flow,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_flow,FDI flow,2007,54,,1508910000.0,27942777.777778,1860000.0,USD,nominal_usd,flow,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_flow,FDI flow,2008,54,,5553700000.0,102846296.296296,3080000.0,USD,nominal_usd,flow,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_flow,FDI flow,2009,54,,1419570000.0,26288333.333333,8150000.0,USD,nominal_usd,flow,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_flow,FDI flow,2010,54,,2081030000.0,38537592.592593,10815000.0,USD,nominal_usd,flow,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_flow,FDI flow,2011,54,,3173140000.0,58761851.851852,9075000.0,USD,nominal_usd,flow,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_flow,FDI flow,2012,54,,2516660000.0,46604814.814815,10060000.0,USD,nominal_usd,flow,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_flow,FDI flow,2013,54,,3370640000.0,62419259.259259,16600000.0,USD,nominal_usd,flow,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_flow,FDI flow,2014,54,,3201920000.0,59294814.814815,19165000.0,USD,nominal_usd,flow,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_flow,FDI flow,2015,54,,2977920000.0,55146666.666667,19090000.0,USD,nominal_usd,flow,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_flow,FDI flow,2016,54,,2398730000.0,44420925.925926,10650000.0,USD,nominal_usd,flow,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_flow,FDI flow,2017,54,,4104980000.0,76018148.148148,35670000.0,USD,nominal_usd,flow,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_flow,FDI flow,2018,54,,5407170000.0,100132777.777778,36825000.0,USD,nominal_usd,flow,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_flow,FDI flow,2019,54,,2704390000.0,50081296.296296,3735000.0,USD,nominal_usd,flow,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_flow,FDI flow,2020,54,,4225608304.65,78252005.641667,22597100.0,USD,nominal_usd,flow,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_flow,FDI flow,2021,54,,4986650000.0,92345370.37037,11110000.0,USD,nominal_usd,flow,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_flow,FDI flow,2022,54,,1811820000.0,33552222.222222,4900000.0,USD,nominal_usd,flow,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_flow,FDI flow,2023,54,,3958810000.0,73311296.296296,17460000.0,USD,nominal_usd,flow,2003,2024,,observed,annual_source_completeness_not_separately_reported
+fdi_flow,FDI flow,2024,54,,3368000000.0,62370370.37037,8525000.0,USD,nominal_usd,flow,2003,2024,,observed,annual_source_completeness_not_separately_reported
+ihme,IHME DAH disbursement,2000,54,7513,3830.269641,70.930919,47.249699,USD million,constant_2023_usd,disbursement,2000,2023,,observed,annual_source_completeness_not_separately_reported
+ihme,IHME DAH disbursement,2001,54,7620,4019.369481,74.432768,43.43842,USD million,constant_2023_usd,disbursement,2000,2023,,observed,annual_source_completeness_not_separately_reported
+ihme,IHME DAH disbursement,2002,54,8897,4076.741315,75.49521,50.777056,USD million,constant_2023_usd,disbursement,2000,2023,,observed,annual_source_completeness_not_separately_reported
+ihme,IHME DAH disbursement,2003,54,9902,5181.012483,95.944676,63.827023,USD million,constant_2023_usd,disbursement,2000,2023,,observed,annual_source_completeness_not_separately_reported
+ihme,IHME DAH disbursement,2004,54,10538,6875.390202,127.322041,69.848492,USD million,constant_2023_usd,disbursement,2000,2023,,observed,annual_source_completeness_not_separately_reported
+ihme,IHME DAH disbursement,2005,54,10862,8199.336146,151.839558,80.577516,USD million,constant_2023_usd,disbursement,2000,2023,,observed,annual_source_completeness_not_separately_reported
+ihme,IHME DAH disbursement,2006,54,11942,9448.842785,174.97857,90.664527,USD million,constant_2023_usd,disbursement,2000,2023,,observed,annual_source_completeness_not_separately_reported
+ihme,IHME DAH disbursement,2007,53,12339,10514.912571,198.394577,96.51579,USD million,constant_2023_usd,disbursement,2000,2023,,observed,annual_source_completeness_not_separately_reported
+ihme,IHME DAH disbursement,2008,53,12641,13802.204563,260.418954,126.55082,USD million,constant_2023_usd,disbursement,2000,2023,,observed,annual_source_completeness_not_separately_reported
+ihme,IHME DAH disbursement,2009,54,13064,14206.45718,263.08254,143.887946,USD million,constant_2023_usd,disbursement,2000,2023,,observed,annual_source_completeness_not_separately_reported
+ihme,IHME DAH disbursement,2010,54,12697,14677.018119,271.796632,137.375547,USD million,constant_2023_usd,disbursement,2000,2023,,observed,annual_source_completeness_not_separately_reported
+ihme,IHME DAH disbursement,2011,54,12984,15546.106597,287.890863,157.63459,USD million,constant_2023_usd,disbursement,2000,2023,,observed,annual_source_completeness_not_separately_reported
+ihme,IHME DAH disbursement,2012,54,12735,17003.000642,314.870382,158.314143,USD million,constant_2023_usd,disbursement,2000,2023,,observed,annual_source_completeness_not_separately_reported
+ihme,IHME DAH disbursement,2013,54,12375,19285.471225,357.138356,182.342395,USD million,constant_2023_usd,disbursement,2000,2023,,observed,annual_source_completeness_not_separately_reported
+ihme,IHME DAH disbursement,2014,54,12523,19501.674275,361.142116,198.671991,USD million,constant_2023_usd,disbursement,2000,2023,,observed,annual_source_completeness_not_separately_reported
+ihme,IHME DAH disbursement,2015,54,13200,20391.317695,377.616994,195.906864,USD million,constant_2023_usd,disbursement,2000,2023,,observed,annual_source_completeness_not_separately_reported
+ihme,IHME DAH disbursement,2016,53,13093,19703.337839,371.761091,231.647743,USD million,constant_2023_usd,disbursement,2000,2023,,observed,annual_source_completeness_not_separately_reported
+ihme,IHME DAH disbursement,2017,53,12540,21091.488063,397.952605,224.194725,USD million,constant_2023_usd,disbursement,2000,2023,,observed,annual_source_completeness_not_separately_reported
+ihme,IHME DAH disbursement,2018,53,12520,20229.320282,381.685288,257.895133,USD million,constant_2023_usd,disbursement,2000,2023,,observed,annual_source_completeness_not_separately_reported
+ihme,IHME DAH disbursement,2019,53,12642,21169.88251,399.431745,222.89491,USD million,constant_2023_usd,disbursement,2000,2023,,observed,annual_source_completeness_not_separately_reported
+ihme,IHME DAH disbursement,2020,53,14097,24832.749574,468.542445,255.506173,USD million,constant_2023_usd,disbursement,2000,2023,,observed,annual_source_completeness_not_separately_reported
+ihme,IHME DAH disbursement,2021,53,13339,32294.334605,609.327068,434.394082,USD million,constant_2023_usd,disbursement,2000,2023,,observed,annual_source_completeness_not_separately_reported
+ihme,IHME DAH disbursement,2022,54,13277,25458.474417,471.45323,284.298921,USD million,constant_2023_usd,disbursement,2000,2023,,observed,annual_source_completeness_not_separately_reported
+ihme,IHME DAH disbursement,2023,54,13021,21455.068463,397.316083,230.297043,USD million,constant_2023_usd,disbursement,2000,2023,,observed,annual_source_completeness_not_separately_reported
+ihme,IHME DAH disbursement,2024,0,0,,,,USD million,constant_2023_usd,disbursement,2000,2023,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+china_eu_finance,China development finance,2000,29,,1420977507.850479,48999224.408637,14438064.437973,USD,constant_2017_usd,development_finance,2000,2017,,observed,annual_source_completeness_not_separately_reported
+china_eu_finance,China development finance,2001,0,,,,,USD,constant_2017_usd,development_finance,2000,2017,False,no_observations_within_source_span,no_value_observed_in_loaded_source_extract
+china_eu_finance,China development finance,2002,40,,2801300145.165645,70032503.629141,20924833.336458,USD,constant_2017_usd,development_finance,2000,2017,,observed,annual_source_completeness_not_separately_reported
+china_eu_finance,China development finance,2003,39,,4449920577.223322,114100527.621111,13794658.061361,USD,constant_2017_usd,development_finance,2000,2017,,observed,annual_source_completeness_not_separately_reported
+china_eu_finance,China development finance,2004,42,,5530181693.404604,131670992.70011,8974322.391161,USD,constant_2017_usd,development_finance,2000,2017,,observed,annual_source_completeness_not_separately_reported
+china_eu_finance,China development finance,2005,40,,7448252229.297514,186206305.732438,16671519.024046,USD,constant_2017_usd,development_finance,2000,2017,,observed,annual_source_completeness_not_separately_reported
+china_eu_finance,China development finance,2006,44,,14681360607.900602,333667286.543195,46638931.550412,USD,constant_2017_usd,development_finance,2000,2017,,observed,annual_source_completeness_not_separately_reported
+china_eu_finance,China development finance,2007,47,,17878582057.384327,380395362.923071,62413854.179504,USD,constant_2017_usd,development_finance,2000,2017,,observed,annual_source_completeness_not_separately_reported
+china_eu_finance,China development finance,2008,39,,16396067149.160616,420411978.183606,39233862.487662,USD,constant_2017_usd,development_finance,2000,2017,,observed,annual_source_completeness_not_separately_reported
+china_eu_finance,China development finance,2009,48,,23542706239.181545,490473046.649616,65658112.633809,USD,constant_2017_usd,development_finance,2000,2017,,observed,annual_source_completeness_not_separately_reported
+china_eu_finance,China development finance,2010,41,,38124856206.61906,929874541.624855,79769788.258711,USD,constant_2017_usd,development_finance,2000,2017,,observed,annual_source_completeness_not_separately_reported
+china_eu_finance,China development finance,2011,46,,18192864871.005295,395497062.413159,81879318.368826,USD,constant_2017_usd,development_finance,2000,2017,,observed,annual_source_completeness_not_separately_reported
+china_eu_finance,China development finance,2012,42,,16794143179.509756,399860551.893089,121878728.39562,USD,constant_2017_usd,development_finance,2000,2017,,observed,annual_source_completeness_not_separately_reported
+china_eu_finance,China development finance,2013,45,,26354064879.566666,585645886.212593,198607686.272924,USD,constant_2017_usd,development_finance,2000,2017,,observed,annual_source_completeness_not_separately_reported
+china_eu_finance,China development finance,2014,41,,17419461829.63732,424864922.674081,108841445.300731,USD,constant_2017_usd,development_finance,2000,2017,,observed,annual_source_completeness_not_separately_reported
+china_eu_finance,China development finance,2015,46,,32412260586.182346,704614360.569181,69242410.21745,USD,constant_2017_usd,development_finance,2000,2017,,observed,annual_source_completeness_not_separately_reported
+china_eu_finance,China development finance,2016,48,,55341156844.07319,1152940767.584858,96011238.156763,USD,constant_2017_usd,development_finance,2000,2017,,observed,annual_source_completeness_not_separately_reported
+china_eu_finance,China development finance,2017,49,,58772491588.96359,1199438603.8564,139753957.949352,USD,constant_2017_usd,development_finance,2000,2017,,observed,annual_source_completeness_not_separately_reported
+china_eu_finance,China development finance,2018,0,,,,,USD,constant_2017_usd,development_finance,2000,2017,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+china_eu_finance,China development finance,2019,0,,,,,USD,constant_2017_usd,development_finance,2000,2017,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+china_eu_finance,China development finance,2020,0,,,,,USD,constant_2017_usd,development_finance,2000,2017,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+china_eu_finance,China development finance,2021,0,,,,,USD,constant_2017_usd,development_finance,2000,2017,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+china_eu_finance,China development finance,2022,0,,,,,USD,constant_2017_usd,development_finance,2000,2017,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+china_eu_finance,China development finance,2023,0,,,,,USD,constant_2017_usd,development_finance,2000,2017,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+china_eu_finance,China development finance,2024,0,,,,,USD,constant_2017_usd,development_finance,2000,2017,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+cgp_capacity,CGP capacity,2000,0,0,,,,MW,not_applicable,capacity,2002,2023,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+cgp_capacity,CGP capacity,2001,0,0,,,,MW,not_applicable,capacity,2002,2023,False,outside_source_coverage,year_outside_first_and_last_observed_source_years
+cgp_capacity,CGP capacity,2002,1,2,250.0,250.0,250.0,MW,not_applicable,capacity,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgp_capacity,CGP capacity,2003,2,15,1310.0,655.0,655.0,MW,not_applicable,capacity,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgp_capacity,CGP capacity,2004,0,0,,,,MW,not_applicable,capacity,2002,2023,False,no_observations_within_source_span,no_value_observed_in_loaded_source_extract
+cgp_capacity,CGP capacity,2005,1,2,200.0,200.0,200.0,MW,not_applicable,capacity,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgp_capacity,CGP capacity,2006,1,4,120.0,120.0,120.0,MW,not_applicable,capacity,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgp_capacity,CGP capacity,2007,3,7,678.0,226.0,194.0,MW,not_applicable,capacity,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgp_capacity,CGP capacity,2008,3,11,1090.0,363.333333,360.0,MW,not_applicable,capacity,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgp_capacity,CGP capacity,2009,4,6,790.79,197.6975,148.05,MW,not_applicable,capacity,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgp_capacity,CGP capacity,2010,4,8,452.0,113.0,95.5,MW,not_applicable,capacity,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgp_capacity,CGP capacity,2011,3,8,380.0,126.666667,150.0,MW,not_applicable,capacity,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgp_capacity,CGP capacity,2012,1,1,51.0,51.0,51.0,MW,not_applicable,capacity,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgp_capacity,CGP capacity,2013,9,25,1925.3,213.922222,153.0,MW,not_applicable,capacity,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgp_capacity,CGP capacity,2014,4,10,593.22,148.305,115.4,MW,not_applicable,capacity,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgp_capacity,CGP capacity,2015,4,9,990.0,247.5,170.0,MW,not_applicable,capacity,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgp_capacity,CGP capacity,2016,4,17,10312.5,2578.125,1790.25,MW,not_applicable,capacity,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgp_capacity,CGP capacity,2017,3,8,1114.5,371.5,244.5,MW,not_applicable,capacity,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgp_capacity,CGP capacity,2018,2,10,5250.0,2625.0,2625.0,MW,not_applicable,capacity,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgp_capacity,CGP capacity,2019,2,5,206.9,103.45,103.45,MW,not_applicable,capacity,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgp_capacity,CGP capacity,2020,3,10,791.5,263.833333,70.0,MW,not_applicable,capacity,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgp_capacity,CGP capacity,2021,1,4,256.0,256.0,256.0,MW,not_applicable,capacity,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgp_capacity,CGP capacity,2022,1,1,100.0,100.0,100.0,MW,not_applicable,capacity,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgp_capacity,CGP capacity,2023,2,2,89.0,44.5,44.5,MW,not_applicable,capacity,2002,2023,,observed,annual_source_completeness_not_separately_reported
+cgp_capacity,CGP capacity,2024,0,0,,,,MW,not_applicable,capacity,2002,2023,False,outside_source_coverage,year_outside_first_and_last_observed_source_years

@@ -1,0 +1,328 @@
+﻿table,column,module,description,unit,key_role,missing_rule
+master_panel_wide,iso3,索引,ISO3 country code,text,composite_primary_key,not_missing
+master_panel_wide,year,索引,"Calendar year, restricted to 2000-2024",integer,composite_primary_key,not_missing
+master_panel_wide,country_name_en,索引,Standard English country name,text,,not_missing
+master_panel_wide,country_name_zh,索引,Standard Chinese country name,text,,not_missing
+master_panel_wide,aiddata_count,记录与质量,Record or known-value count for aiddata,count,,blank_when_not_observed; zero_is_observed
+master_panel_wide,aiddata_amount_known_count,记录与质量,Record or known-value count for aiddata_amount_known,count,,blank_when_not_observed; zero_is_observed
+master_panel_wide,aiddata_total_usd,项目库汇总,Source-specific annual amount for aiddata; never add across sources,USD,,blank_when_not_observed; zero_is_observed
+master_panel_wide,codf_count,记录与质量,Record or known-value count for codf,count,,blank_when_not_observed; zero_is_observed
+master_panel_wide,codf_amount_known_count,记录与质量,Record or known-value count for codf_amount_known,count,,blank_when_not_observed; zero_is_observed
+master_panel_wide,codf_total_usd,项目库汇总,Source-specific annual amount for codf; never add across sources,USD,,blank_when_not_observed; zero_is_observed
+master_panel_wide,cla_count,记录与质量,Record or known-value count for cla,count,,blank_when_not_observed; zero_is_observed
+master_panel_wide,cla_amount_known_count,记录与质量,Record or known-value count for cla_amount_known,count,,blank_when_not_observed; zero_is_observed
+master_panel_wide,cla_total_usd,项目库汇总,Source-specific annual amount for cla; never add across sources,USD,,blank_when_not_observed; zero_is_observed
+master_panel_wide,cancel_count,记录与质量,Record or known-value count for cancel,count,,blank_when_not_observed; zero_is_observed
+master_panel_wide,cancel_amount_known_count,记录与质量,Record or known-value count for cancel_amount_known,count,,blank_when_not_observed; zero_is_observed
+master_panel_wide,cancel_total_usd,项目库汇总,Source-specific annual amount for cancel; never add across sources,USD,,blank_when_not_observed; zero_is_observed
+master_panel_wide,restruct_count,记录与质量,Record or known-value count for restruct,count,,blank_when_not_observed; zero_is_observed
+master_panel_wide,restruct_amount_known_count,记录与质量,Record or known-value count for restruct_amount_known,count,,blank_when_not_observed; zero_is_observed
+master_panel_wide,restruct_total_usd,项目库汇总,Source-specific annual amount for restruct; never add across sources,USD,,blank_when_not_observed; zero_is_observed
+master_panel_wide,cofi_count,记录与质量,Record or known-value count for cofi,count,,blank_when_not_observed; zero_is_observed
+master_panel_wide,cofi_amount_known_count,记录与质量,Record or known-value count for cofi_amount_known,count,,blank_when_not_observed; zero_is_observed
+master_panel_wide,cofi_total_usd,项目库汇总,Source-specific annual amount for cofi; never add across sources,USD,,blank_when_not_observed; zero_is_observed
+master_panel_wide,cgef_count,记录与质量,Record or known-value count for cgef,count,,blank_when_not_observed; zero_is_observed
+master_panel_wide,cgef_amount_known_count,记录与质量,Record or known-value count for cgef_amount_known,count,,blank_when_not_observed; zero_is_observed
+master_panel_wide,cgef_total_usd,项目库汇总,Source-specific annual amount for cgef; never add across sources,USD,,blank_when_not_observed; zero_is_observed
+master_panel_wide,cgp_count,记录与质量,Record or known-value count for cgp,count,,blank_when_not_observed; zero_is_observed
+master_panel_wide,chapo_count,记录与质量,Record or known-value count for chapo,count,,blank_when_not_observed; zero_is_observed
+master_panel_wide,chapo_amount_known_count,记录与质量,Record or known-value count for chapo_amount_known,count,,blank_when_not_observed; zero_is_observed
+master_panel_wide,chapo_total_usd,项目库汇总,Source-specific annual amount for chapo; never add across sources,USD,,blank_when_not_observed; zero_is_observed
+master_panel_wide,cgp_capacity_mw,特殊量纲,CGP generating-unit capacity assigned to financing year; commissioning year is fallback,MW,,blank_when_not_observed; zero_is_observed
+master_panel_wide,chapo_loan_usd,资金性质,Source-specific fund-type amount: chapo_loan_usd,USD,,blank_when_not_observed; zero_is_observed
+master_panel_wide,cofi_loan_usd,资金性质,Source-specific fund-type amount: cofi_loan_usd,USD,,blank_when_not_observed; zero_is_observed
+master_panel_wide,cla_loan_usd,资金性质,Source-specific fund-type amount: cla_loan_usd,USD,,blank_when_not_observed; zero_is_observed
+master_panel_wide,aiddata_grant_usd,资金性质,Source-specific fund-type amount: aiddata_grant_usd,USD,,blank_when_not_observed; zero_is_observed
+master_panel_wide,aiddata_debt_relief_usd,资金性质,Source-specific fund-type amount: aiddata_debt_relief_usd,USD,,blank_when_not_observed; zero_is_observed
+master_panel_wide,chapo_grant_usd,资金性质,Source-specific fund-type amount: chapo_grant_usd,USD,,blank_when_not_observed; zero_is_observed
+master_panel_wide,aiddata_unspecified_usd,资金性质,Source-specific fund-type amount: aiddata_unspecified_usd,USD,,blank_when_not_observed; zero_is_observed
+master_panel_wide,aiddata_loan_usd,资金性质,Source-specific fund-type amount: aiddata_loan_usd,USD,,blank_when_not_observed; zero_is_observed
+master_panel_wide,codf_loan_usd,资金性质,Source-specific fund-type amount: codf_loan_usd,USD,,blank_when_not_observed; zero_is_observed
+master_panel_wide,restruct_loan_usd,资金性质,Source-specific fund-type amount: restruct_loan_usd,USD,,blank_when_not_observed; zero_is_observed
+master_panel_wide,cancel_debt_relief_usd,资金性质,Source-specific fund-type amount: cancel_debt_relief_usd,USD,,blank_when_not_observed; zero_is_observed
+master_panel_wide,cgef_loan_usd,资金性质,Source-specific fund-type amount: cgef_loan_usd,USD,,blank_when_not_observed; zero_is_observed
+master_panel_wide,cofi_equity_usd,资金性质,Source-specific fund-type amount: cofi_equity_usd,USD,,blank_when_not_observed; zero_is_observed
+master_panel_wide,ihme_disbursement_2023_usd_million,宏观指标,"IHME annual DAH disbursement, constant 2023 USD",USD million,,blank_when_not_observed; zero_is_observed
+master_panel_wide,ihme_observation_count,记录与质量,Record or known-value count for ihme_observation,count,,blank_when_not_observed; zero_is_observed
+master_panel_wide,china_eu_dfchina_2017_usd,宏观指标,China development finance from the China-EU comparison dataset,constant 2017 USD,,blank_when_not_observed; zero_is_observed
+master_panel_wide,china_eu_oda_2017_usd,宏观指标,China ODA-like finance from the China-EU comparison dataset,constant 2017 USD,,blank_when_not_observed; zero_is_observed
+master_panel_wide,china_eu_oof_2017_usd,宏观指标,China OOF-like finance from the China-EU comparison dataset,constant 2017 USD,,blank_when_not_observed; zero_is_observed
+master_panel_wide,aidexports_total_usd,宏观指标,Annual sum of monthly Chinese aid exports,nominal USD,,blank_when_not_observed; zero_is_observed
+master_panel_wide,aidexports_medical_usd,资金性质,Source-specific fund-type amount: aidexports_medical_usd,USD,,blank_when_not_observed; zero_is_observed
+master_panel_wide,aidexports_non_medical_usd,资金性质,Source-specific fund-type amount: aidexports_non_medical_usd,USD,,blank_when_not_observed; zero_is_observed
+master_panel_wide,aidexports_month_count,记录与质量,Record or known-value count for aidexports_month,count,,blank_when_not_observed; zero_is_observed
+master_panel_wide,fdi_stock_usd,宏观指标,Annual FDI stock; nominal USD,USD,,blank_when_not_observed; zero_is_observed
+master_panel_wide,fdi_flow_usd,宏观指标,Annual FDI flow; nominal USD; negative divestment retained,USD,,blank_when_not_observed; zero_is_observed
+project_level_master,project_match_id,项目级,project match id,source-specific,entity_link,source_missing_preserved; zero_is_observed
+project_level_master,source_db,项目级,source db,source-specific,composite_primary_key,source_missing_preserved; zero_is_observed
+project_level_master,record_id,项目级,record id,source-specific,composite_primary_key,source_missing_preserved; zero_is_observed
+project_level_master,country_iso3,项目级,country iso3,source-specific,,source_missing_preserved; zero_is_observed
+project_level_master,country_name_en,项目级,country name en,source-specific,,source_missing_preserved; zero_is_observed
+project_level_master,country_name_zh,项目级,country name zh,source-specific,,source_missing_preserved; zero_is_observed
+project_level_master,panel_eligible,项目级,panel eligible,source-specific,,source_missing_preserved; zero_is_observed
+project_level_master,year,项目级,year,source-specific,,source_missing_preserved; zero_is_observed
+project_level_master,year_basis,项目级,year basis,source-specific,,source_missing_preserved; zero_is_observed
+project_level_master,project_name,项目级,project name,source-specific,,source_missing_preserved; zero_is_observed
+project_level_master,description,项目级,description,source-specific,,source_missing_preserved; zero_is_observed
+project_level_master,amount_value,项目级,amount value,source-specific,,source_missing_preserved; zero_is_observed
+project_level_master,amount_unit,项目级,amount unit,source-specific,,source_missing_preserved; zero_is_observed
+project_level_master,price_basis,项目级,price basis,source-specific,,source_missing_preserved; zero_is_observed
+project_level_master,amount_measure,项目级,amount measure,source-specific,,source_missing_preserved; zero_is_observed
+project_level_master,metric_value,项目级,metric value,source-specific,,source_missing_preserved; zero_is_observed
+project_level_master,metric_unit,项目级,metric unit,source-specific,,source_missing_preserved; zero_is_observed
+project_level_master,flow_type_raw,项目级,flow type raw,source-specific,,source_missing_preserved; zero_is_observed
+project_level_master,fund_type,项目级,fund type,source-specific,,source_missing_preserved; zero_is_observed
+project_level_master,sector_raw,项目级,sector raw,source-specific,,source_missing_preserved; zero_is_observed
+project_level_master,sector_harmonized,项目级,sector harmonized,source-specific,,source_missing_preserved; zero_is_observed
+project_level_master,sector_mapping_method,项目级,sector mapping method,source-specific,,source_missing_preserved; zero_is_observed
+project_level_master,latitude,项目级,latitude,source-specific,,source_missing_preserved; zero_is_observed
+project_level_master,longitude,项目级,longitude,source-specific,,source_missing_preserved; zero_is_observed
+project_level_master,geo_precision,项目级,geo precision,source-specific,,source_missing_preserved; zero_is_observed
+project_level_master,is_regional,项目级,is regional,source-specific,,source_missing_preserved; zero_is_observed
+project_level_master,is_framework,项目级,is framework,source-specific,,source_missing_preserved; zero_is_observed
+project_level_master,amount_missing,项目级,amount missing,source-specific,,source_missing_preserved; zero_is_observed
+project_level_master,is_estimated,项目级,is estimated,source-specific,,source_missing_preserved; zero_is_observed
+project_level_master,is_imputed,项目级,is imputed,source-specific,,source_missing_preserved; zero_is_observed
+project_level_master,is_outlier,项目级,is outlier,source-specific,,source_missing_preserved; zero_is_observed
+project_level_master,match_status,项目级,match status,source-specific,,source_missing_preserved; zero_is_observed
+project_level_master,match_confidence,项目级,match confidence,source-specific,,source_missing_preserved; zero_is_observed
+project_level_master,candidate_count,项目级,candidate count,source-specific,,source_missing_preserved; zero_is_observed
+project_level_master,source_file,项目级,source file,source-specific,,source_missing_preserved; zero_is_observed
+long_source,panel_id,长面板,panel id,source-specific,panel_identifier,blank_when_not_observed; zero_is_observed
+long_source,iso3,长面板,iso3,source-specific,composite_primary_key,blank_when_not_observed; zero_is_observed
+long_source,country_name_en,长面板,country name en,source-specific,,blank_when_not_observed; zero_is_observed
+long_source,year,长面板,year,year,composite_primary_key,blank_when_not_observed; zero_is_observed
+long_source,source,长面板,source,source-specific,composite_primary_key,blank_when_not_observed; zero_is_observed
+long_source,source_label,长面板,source label,source-specific,,blank_when_not_observed; zero_is_observed
+long_source,amount_usd,长面板,amount usd,source-specific,,blank_when_not_observed; zero_is_observed
+long_source,record_count,长面板,record count,count,,blank_when_not_observed; zero_is_observed
+long_source,amount_known_count,长面板,amount known count,count,,blank_when_not_observed; zero_is_observed
+long_source,price_basis,长面板,price basis,source-specific,,blank_when_not_observed; zero_is_observed
+long_source,amount_measure,长面板,amount measure,source-specific,,blank_when_not_observed; zero_is_observed
+long_fundtype,panel_id,长面板,panel id,source-specific,panel_identifier,blank_when_not_observed; zero_is_observed
+long_fundtype,iso3,长面板,iso3,source-specific,composite_primary_key,blank_when_not_observed; zero_is_observed
+long_fundtype,country_name_en,长面板,country name en,source-specific,,blank_when_not_observed; zero_is_observed
+long_fundtype,year,长面板,year,year,composite_primary_key,blank_when_not_observed; zero_is_observed
+long_fundtype,source,长面板,source,source-specific,composite_primary_key,blank_when_not_observed; zero_is_observed
+long_fundtype,fund_type,长面板,fund type,source-specific,composite_primary_key,blank_when_not_observed; zero_is_observed
+long_fundtype,amount_usd,长面板,amount usd,source-specific,,blank_when_not_observed; zero_is_observed
+long_fundtype,amount_known_count,长面板,amount known count,count,,blank_when_not_observed; zero_is_observed
+long_fundtype,price_basis,长面板,price basis,source-specific,,blank_when_not_observed; zero_is_observed
+match_candidates,candidate_id,项目匹配,candidate id,source-specific,primary_key,blank_when_not_observed; zero_is_observed
+match_candidates,left_record_key,项目匹配,left record key,source-specific,foreign_key,blank_when_not_observed; zero_is_observed
+match_candidates,right_record_key,项目匹配,right record key,source-specific,foreign_key,blank_when_not_observed; zero_is_observed
+match_candidates,country_iso3,项目匹配,country iso3,source-specific,,blank_when_not_observed; zero_is_observed
+match_candidates,year,项目匹配,year,year,,blank_when_not_observed; zero_is_observed
+match_candidates,similarity,项目匹配,similarity,source-specific,,blank_when_not_observed; zero_is_observed
+match_candidates,status,项目匹配,status,source-specific,,blank_when_not_observed; zero_is_observed
+match_candidates,review_decision,项目匹配,review decision,source-specific,,blank_when_not_observed; zero_is_observed
+match_candidates,method,项目匹配,method,source-specific,,blank_when_not_observed; zero_is_observed
+match_candidates,left_title,项目匹配,left title,source-specific,,blank_when_not_observed; zero_is_observed
+match_candidates,right_title,项目匹配,right title,source-specific,,blank_when_not_observed; zero_is_observed
+match_review_queue,candidate_id,项目匹配,candidate id,source-specific,primary_key,blank_when_not_observed; zero_is_observed
+match_review_queue,country_iso3,项目匹配,country iso3,source-specific,,blank_when_not_observed; zero_is_observed
+match_review_queue,year,项目匹配,year,year,,blank_when_not_observed; zero_is_observed
+match_review_queue,similarity,项目匹配,similarity,source-specific,,blank_when_not_observed; zero_is_observed
+match_review_queue,review_hint,项目匹配,review hint,source-specific,,blank_when_not_observed; zero_is_observed
+match_review_queue,suggested_decision,项目匹配,suggested decision,source-specific,,blank_when_not_observed; zero_is_observed
+match_review_queue,suggestion_confidence,项目匹配,suggestion confidence,source-specific,,blank_when_not_observed; zero_is_observed
+match_review_queue,suggestion_reason,项目匹配,suggestion reason,source-specific,,blank_when_not_observed; zero_is_observed
+match_review_queue,left_source,项目匹配,left source,source-specific,,blank_when_not_observed; zero_is_observed
+match_review_queue,left_record_id,项目匹配,left record id,source-specific,,blank_when_not_observed; zero_is_observed
+match_review_queue,left_title,项目匹配,left title,source-specific,,blank_when_not_observed; zero_is_observed
+match_review_queue,left_amount_value,项目匹配,left amount value,source-specific,,blank_when_not_observed; zero_is_observed
+match_review_queue,left_price_basis,项目匹配,left price basis,source-specific,,blank_when_not_observed; zero_is_observed
+match_review_queue,left_fund_type,项目匹配,left fund type,source-specific,,blank_when_not_observed; zero_is_observed
+match_review_queue,left_sector,项目匹配,left sector,source-specific,,blank_when_not_observed; zero_is_observed
+match_review_queue,right_source,项目匹配,right source,source-specific,,blank_when_not_observed; zero_is_observed
+match_review_queue,right_record_id,项目匹配,right record id,source-specific,,blank_when_not_observed; zero_is_observed
+match_review_queue,right_title,项目匹配,right title,source-specific,,blank_when_not_observed; zero_is_observed
+match_review_queue,right_amount_value,项目匹配,right amount value,source-specific,,blank_when_not_observed; zero_is_observed
+match_review_queue,right_price_basis,项目匹配,right price basis,source-specific,,blank_when_not_observed; zero_is_observed
+match_review_queue,right_fund_type,项目匹配,right fund type,source-specific,,blank_when_not_observed; zero_is_observed
+match_review_queue,right_sector,项目匹配,right sector,source-specific,,blank_when_not_observed; zero_is_observed
+match_review_queue,amount_ratio_if_comparable,项目匹配,amount ratio if comparable,source-specific,,blank_when_not_observed; zero_is_observed
+match_review_queue,review_decision,项目匹配,review decision,source-specific,,blank_when_not_observed; zero_is_observed
+match_review_queue,review_notes,项目匹配,review notes,source-specific,,blank_when_not_observed; zero_is_observed
+match_review_decisions_applied,candidate_id,项目匹配,candidate id,source-specific,primary_key,blank_when_not_observed; zero_is_observed
+match_review_decisions_applied,left_record_key,项目匹配,left record key,source-specific,foreign_key,blank_when_not_observed; zero_is_observed
+match_review_decisions_applied,right_record_key,项目匹配,right record key,source-specific,foreign_key,blank_when_not_observed; zero_is_observed
+match_review_decisions_applied,review_decision,项目匹配,review decision,source-specific,,blank_when_not_observed; zero_is_observed
+match_review_decisions_applied,review_notes,项目匹配,review notes,source-specific,,blank_when_not_observed; zero_is_observed
+match_review_decisions_applied,reviewed_at,项目匹配,reviewed at,source-specific,,blank_when_not_observed; zero_is_observed
+match_review_decisions_applied,application_status,项目匹配,application status,source-specific,,blank_when_not_observed; zero_is_observed
+confirmed_match_groups,project_match_id,项目实体,project match id,source-specific,primary_key,blank_when_not_observed; zero_is_observed
+confirmed_match_groups,member_count,项目实体,member count,count,,blank_when_not_observed; zero_is_observed
+confirmed_match_groups,source_count,项目实体,source count,count,,blank_when_not_observed; zero_is_observed
+confirmed_match_groups,sources,项目实体,sources,source-specific,,blank_when_not_observed; zero_is_observed
+confirmed_match_groups,country_iso3,项目实体,country iso3,source-specific,,blank_when_not_observed; zero_is_observed
+confirmed_match_groups,year,项目实体,year,year,,blank_when_not_observed; zero_is_observed
+confirmed_match_groups,member_record_keys,项目实体,member record keys,source-specific,foreign_key,blank_when_not_observed; zero_is_observed
+confirmed_match_groups,group_basis,项目实体,group basis,source-specific,,blank_when_not_observed; zero_is_observed
+project_entity_index,project_entity_id,项目实体,project entity id,source-specific,primary_key,blank_when_not_observed; zero_is_observed
+project_entity_index,country_iso3,项目实体,country iso3,source-specific,,blank_when_not_observed; zero_is_observed
+project_entity_index,year,项目实体,year,year,,blank_when_not_observed; zero_is_observed
+project_entity_index,canonical_title,项目实体,canonical title,source-specific,,blank_when_not_observed; zero_is_observed
+project_entity_index,member_count,项目实体,member count,count,,blank_when_not_observed; zero_is_observed
+project_entity_index,source_count,项目实体,source count,count,,blank_when_not_observed; zero_is_observed
+project_entity_index,sources,项目实体,sources,source-specific,,blank_when_not_observed; zero_is_observed
+project_entity_index,member_record_keys,项目实体,member record keys,source-specific,foreign_key,blank_when_not_observed; zero_is_observed
+project_entity_index,match_basis,项目实体,match basis,source-specific,,blank_when_not_observed; zero_is_observed
+project_entity_index,amount_policy,项目实体,amount policy,source-specific,,blank_when_not_observed; zero_is_observed
+project_quality_summary,source_db,质量诊断,source db,source-specific,,blank_when_not_observed; zero_is_observed
+project_quality_summary,source_label,质量诊断,source label,source-specific,,blank_when_not_observed; zero_is_observed
+project_quality_summary,primary_value_field,质量诊断,primary value field,source-specific,,blank_when_not_observed; zero_is_observed
+project_quality_summary,total_records,质量诊断,total records,source-specific,,blank_when_not_observed; zero_is_observed
+project_quality_summary,panel_eligible_records,质量诊断,panel eligible records,source-specific,,blank_when_not_observed; zero_is_observed
+project_quality_summary,value_known_count,质量诊断,value known count,count,,blank_when_not_observed; zero_is_observed
+project_quality_summary,value_missing_count,质量诊断,value missing count,count,,blank_when_not_observed; zero_is_observed
+project_quality_summary,value_missing_rate,质量诊断,value missing rate,proportion_0_to_1,,blank_when_not_observed; zero_is_observed
+project_quality_summary,country_known_rate,质量诊断,country known rate,proportion_0_to_1,,blank_when_not_observed; zero_is_observed
+project_quality_summary,year_known_rate,质量诊断,year known rate,proportion_0_to_1,,blank_when_not_observed; zero_is_observed
+project_quality_summary,title_known_rate,质量诊断,title known rate,proportion_0_to_1,,blank_when_not_observed; zero_is_observed
+project_quality_summary,sector_classified_rate,质量诊断,sector classified rate,proportion_0_to_1,,blank_when_not_observed; zero_is_observed
+project_quality_summary,fund_type_classified_rate,质量诊断,fund type classified rate,proportion_0_to_1,,blank_when_not_observed; zero_is_observed
+project_quality_summary,estimated_count,质量诊断,estimated count,count,,blank_when_not_observed; zero_is_observed
+project_quality_summary,regional_count,质量诊断,regional count,count,,blank_when_not_observed; zero_is_observed
+project_quality_summary,framework_count,质量诊断,framework count,count,,blank_when_not_observed; zero_is_observed
+project_quality_summary,outlier_candidate_count,质量诊断,outlier candidate count,count,,blank_when_not_observed; zero_is_observed
+project_quality_summary,needs_match_review_count,质量诊断,needs match review count,count,,blank_when_not_observed; zero_is_observed
+panel_missingness,variable,质量诊断,variable,source-specific,,blank_when_not_observed; zero_is_observed
+panel_missingness,panel_rows,质量诊断,panel rows,count,,blank_when_not_observed; zero_is_observed
+panel_missingness,observed_count,质量诊断,observed count,count,,blank_when_not_observed; zero_is_observed
+panel_missingness,missing_count,质量诊断,missing count,count,,blank_when_not_observed; zero_is_observed
+panel_missingness,missing_rate,质量诊断,missing rate,proportion_0_to_1,,blank_when_not_observed; zero_is_observed
+panel_missingness,zero_count,质量诊断,zero count,count,,blank_when_not_observed; zero_is_observed
+panel_missingness,negative_count,质量诊断,negative count,count,,blank_when_not_observed; zero_is_observed
+panel_missingness,countries_with_data,质量诊断,countries with data,count,,blank_when_not_observed; zero_is_observed
+panel_missingness,years_with_data,质量诊断,years with data,count,,blank_when_not_observed; zero_is_observed
+panel_missingness,first_observed_year,质量诊断,first observed year,year,,blank_when_not_observed; zero_is_observed
+panel_missingness,last_observed_year,质量诊断,last observed year,year,,blank_when_not_observed; zero_is_observed
+outlier_candidates,outlier_id,质量诊断,outlier id,source-specific,primary_key,blank_when_not_observed; zero_is_observed
+outlier_candidates,record_key,质量诊断,record key,source-specific,,blank_when_not_observed; zero_is_observed
+outlier_candidates,source_db,质量诊断,source db,source-specific,,blank_when_not_observed; zero_is_observed
+outlier_candidates,record_id,质量诊断,record id,source-specific,,blank_when_not_observed; zero_is_observed
+outlier_candidates,country_iso3,质量诊断,country iso3,source-specific,,blank_when_not_observed; zero_is_observed
+outlier_candidates,year,质量诊断,year,year,,blank_when_not_observed; zero_is_observed
+outlier_candidates,project_name,质量诊断,project name,source-specific,,blank_when_not_observed; zero_is_observed
+outlier_candidates,amount_value,质量诊断,amount value,source-specific,,blank_when_not_observed; zero_is_observed
+outlier_candidates,amount_unit,质量诊断,amount unit,source-specific,,blank_when_not_observed; zero_is_observed
+outlier_candidates,price_basis,质量诊断,price basis,source-specific,,blank_when_not_observed; zero_is_observed
+outlier_candidates,amount_measure,质量诊断,amount measure,source-specific,,blank_when_not_observed; zero_is_observed
+outlier_candidates,detection_method,质量诊断,detection method,source-specific,,blank_when_not_observed; zero_is_observed
+outlier_candidates,robust_z,质量诊断,robust z,source-specific,,blank_when_not_observed; zero_is_observed
+outlier_candidates,group_known_count,质量诊断,group known count,count,,blank_when_not_observed; zero_is_observed
+outlier_candidates,group_median_amount,质量诊断,group median amount,source-specific,,blank_when_not_observed; zero_is_observed
+outlier_candidates,review_decision,质量诊断,review decision,source-specific,,blank_when_not_observed; zero_is_observed
+outlier_candidates,review_notes,质量诊断,review notes,source-specific,,blank_when_not_observed; zero_is_observed
+source_descriptive_statistics,metric_id,质量诊断,metric id,source-specific,,blank_when_not_observed; zero_is_observed
+source_descriptive_statistics,metric_label,质量诊断,metric label,source-specific,,blank_when_not_observed; zero_is_observed
+source_descriptive_statistics,category,质量诊断,category,source-specific,,blank_when_not_observed; zero_is_observed
+source_descriptive_statistics,unit,质量诊断,unit,source-specific,,blank_when_not_observed; zero_is_observed
+source_descriptive_statistics,price_basis,质量诊断,price basis,source-specific,,blank_when_not_observed; zero_is_observed
+source_descriptive_statistics,amount_measure,质量诊断,amount measure,source-specific,,blank_when_not_observed; zero_is_observed
+source_descriptive_statistics,panel_rows,质量诊断,panel rows,count,,blank_when_not_observed; zero_is_observed
+source_descriptive_statistics,observed_count,质量诊断,observed count,count,,blank_when_not_observed; zero_is_observed
+source_descriptive_statistics,missing_count,质量诊断,missing count,count,,blank_when_not_observed; zero_is_observed
+source_descriptive_statistics,missing_rate,质量诊断,missing rate,proportion_0_to_1,,blank_when_not_observed; zero_is_observed
+source_descriptive_statistics,countries_with_data,质量诊断,countries with data,count,,blank_when_not_observed; zero_is_observed
+source_descriptive_statistics,years_with_data,质量诊断,years with data,count,,blank_when_not_observed; zero_is_observed
+source_descriptive_statistics,mean,质量诊断,mean,source-specific,,blank_when_not_observed; zero_is_observed
+source_descriptive_statistics,median,质量诊断,median,source-specific,,blank_when_not_observed; zero_is_observed
+source_descriptive_statistics,std_dev,质量诊断,std dev,source-specific,,blank_when_not_observed; zero_is_observed
+source_descriptive_statistics,p25,质量诊断,p25,source-specific,,blank_when_not_observed; zero_is_observed
+source_descriptive_statistics,p75,质量诊断,p75,source-specific,,blank_when_not_observed; zero_is_observed
+source_descriptive_statistics,minimum,质量诊断,minimum,source-specific,,blank_when_not_observed; zero_is_observed
+source_descriptive_statistics,maximum,质量诊断,maximum,source-specific,,blank_when_not_observed; zero_is_observed
+source_descriptive_statistics,zero_count,质量诊断,zero count,count,,blank_when_not_observed; zero_is_observed
+source_descriptive_statistics,negative_count,质量诊断,negative count,count,,blank_when_not_observed; zero_is_observed
+annual_source_trends,metric_id,质量诊断,metric id,source-specific,,blank_when_not_observed; zero_is_observed
+annual_source_trends,metric_label,质量诊断,metric label,source-specific,,blank_when_not_observed; zero_is_observed
+annual_source_trends,year,质量诊断,year,year,,blank_when_not_observed; zero_is_observed
+annual_source_trends,observed_country_count,质量诊断,observed country count,count,,blank_when_not_observed; zero_is_observed
+annual_source_trends,record_count,质量诊断,record count,count,,blank_when_not_observed; zero_is_observed
+annual_source_trends,total_value,质量诊断,total value,source-specific,,blank_when_not_observed; zero_is_observed
+annual_source_trends,mean_value,质量诊断,mean value,source-specific,,blank_when_not_observed; zero_is_observed
+annual_source_trends,median_value,质量诊断,median value,source-specific,,blank_when_not_observed; zero_is_observed
+annual_source_trends,unit,质量诊断,unit,source-specific,,blank_when_not_observed; zero_is_observed
+annual_source_trends,price_basis,质量诊断,price basis,source-specific,,blank_when_not_observed; zero_is_observed
+annual_source_trends,amount_measure,质量诊断,amount measure,source-specific,,blank_when_not_observed; zero_is_observed
+annual_source_trends,source_first_observed_year,质量诊断,source first observed year,year,,blank_when_not_observed; zero_is_observed
+annual_source_trends,source_last_observed_year,质量诊断,source last observed year,year,,blank_when_not_observed; zero_is_observed
+annual_source_trends,year_complete,质量诊断,year complete,year,,blank_when_not_observed; zero_is_observed
+annual_source_trends,coverage_status,质量诊断,coverage status,source-specific,,blank_when_not_observed; zero_is_observed
+annual_source_trends,coverage_note,质量诊断,coverage note,source-specific,,blank_when_not_observed; zero_is_observed
+country_source_summary,metric_id,质量诊断,metric id,source-specific,,blank_when_not_observed; zero_is_observed
+country_source_summary,metric_label,质量诊断,metric label,source-specific,,blank_when_not_observed; zero_is_observed
+country_source_summary,iso3,质量诊断,iso3,source-specific,,blank_when_not_observed; zero_is_observed
+country_source_summary,country_name_en,质量诊断,country name en,source-specific,,blank_when_not_observed; zero_is_observed
+country_source_summary,observed_year_count,质量诊断,observed year count,count,,blank_when_not_observed; zero_is_observed
+country_source_summary,first_observed_year,质量诊断,first observed year,year,,blank_when_not_observed; zero_is_observed
+country_source_summary,last_observed_year,质量诊断,last observed year,year,,blank_when_not_observed; zero_is_observed
+country_source_summary,total_value,质量诊断,total value,source-specific,,blank_when_not_observed; zero_is_observed
+country_source_summary,annual_mean,质量诊断,annual mean,source-specific,,blank_when_not_observed; zero_is_observed
+country_source_summary,annual_median,质量诊断,annual median,source-specific,,blank_when_not_observed; zero_is_observed
+country_source_summary,rank_within_metric,质量诊断,rank within metric,source-specific,,blank_when_not_observed; zero_is_observed
+country_source_summary,unit,质量诊断,unit,source-specific,,blank_when_not_observed; zero_is_observed
+country_source_summary,price_basis,质量诊断,price basis,source-specific,,blank_when_not_observed; zero_is_observed
+country_source_summary,aggregation_caveat,质量诊断,aggregation caveat,source-specific,,blank_when_not_observed; zero_is_observed
+cross_source_correlations,scope,质量诊断,scope,source-specific,,blank_when_not_observed; zero_is_observed
+cross_source_correlations,left_metric,质量诊断,left metric,source-specific,,blank_when_not_observed; zero_is_observed
+cross_source_correlations,left_label,质量诊断,left label,source-specific,,blank_when_not_observed; zero_is_observed
+cross_source_correlations,right_metric,质量诊断,right metric,source-specific,,blank_when_not_observed; zero_is_observed
+cross_source_correlations,right_label,质量诊断,right label,source-specific,,blank_when_not_observed; zero_is_observed
+cross_source_correlations,paired_observations,质量诊断,paired observations,source-specific,,blank_when_not_observed; zero_is_observed
+cross_source_correlations,shared_country_years,质量诊断,shared country years,year,,blank_when_not_observed; zero_is_observed
+cross_source_correlations,spearman_rho,质量诊断,spearman rho,source-specific,,blank_when_not_observed; zero_is_observed
+cross_source_correlations,kendall_tau_b,质量诊断,kendall tau b,source-specific,,blank_when_not_observed; zero_is_observed
+cross_source_correlations,left_price_basis,质量诊断,left price basis,source-specific,,blank_when_not_observed; zero_is_observed
+cross_source_correlations,right_price_basis,质量诊断,right price basis,source-specific,,blank_when_not_observed; zero_is_observed
+cross_source_correlations,comparability_tier,质量诊断,comparability tier,source-specific,,blank_when_not_observed; zero_is_observed
+cross_source_correlations,interpretation_limit,质量诊断,interpretation limit,source-specific,,blank_when_not_observed; zero_is_observed
+structural_break_models,metric_id,质量诊断,metric id,source-specific,,blank_when_not_observed; zero_is_observed
+structural_break_models,metric_label,质量诊断,metric label,source-specific,,blank_when_not_observed; zero_is_observed
+structural_break_models,series_variant,质量诊断,series variant,source-specific,,blank_when_not_observed; zero_is_observed
+structural_break_models,start_year,质量诊断,start year,year,,blank_when_not_observed; zero_is_observed
+structural_break_models,end_year,质量诊断,end year,year,,blank_when_not_observed; zero_is_observed
+structural_break_models,observations,质量诊断,observations,source-specific,,blank_when_not_observed; zero_is_observed
+structural_break_models,min_segment_length,质量诊断,min segment length,source-specific,,blank_when_not_observed; zero_is_observed
+structural_break_models,selected_segments,质量诊断,selected segments,source-specific,,blank_when_not_observed; zero_is_observed
+structural_break_models,break_count,质量诊断,break count,count,,blank_when_not_observed; zero_is_observed
+structural_break_models,break_years,质量诊断,break years,year,,blank_when_not_observed; zero_is_observed
+structural_break_models,bic,质量诊断,bic,source-specific,,blank_when_not_observed; zero_is_observed
+structural_break_models,no_break_bic,质量诊断,no break bic,source-specific,,blank_when_not_observed; zero_is_observed
+structural_break_models,bic_improvement,质量诊断,bic improvement,source-specific,,blank_when_not_observed; zero_is_observed
+structural_break_models,transform,质量诊断,transform,source-specific,,blank_when_not_observed; zero_is_observed
+structural_break_models,method,质量诊断,method,source-specific,,blank_when_not_observed; zero_is_observed
+structural_break_models,interpretation_limit,质量诊断,interpretation limit,source-specific,,blank_when_not_observed; zero_is_observed
+structural_breakpoints,metric_id,质量诊断,metric id,source-specific,,blank_when_not_observed; zero_is_observed
+structural_breakpoints,metric_label,质量诊断,metric label,source-specific,,blank_when_not_observed; zero_is_observed
+structural_breakpoints,series_variant,质量诊断,series variant,source-specific,,blank_when_not_observed; zero_is_observed
+structural_breakpoints,break_number,质量诊断,break number,source-specific,,blank_when_not_observed; zero_is_observed
+structural_breakpoints,break_year,质量诊断,break year,year,,blank_when_not_observed; zero_is_observed
+structural_breakpoints,pre_start_year,质量诊断,pre start year,year,,blank_when_not_observed; zero_is_observed
+structural_breakpoints,pre_end_year,质量诊断,pre end year,year,,blank_when_not_observed; zero_is_observed
+structural_breakpoints,post_start_year,质量诊断,post start year,year,,blank_when_not_observed; zero_is_observed
+structural_breakpoints,post_end_year,质量诊断,post end year,year,,blank_when_not_observed; zero_is_observed
+structural_breakpoints,pre_mean_original,质量诊断,pre mean original,source-specific,,blank_when_not_observed; zero_is_observed
+structural_breakpoints,post_mean_original,质量诊断,post mean original,source-specific,,blank_when_not_observed; zero_is_observed
+structural_breakpoints,relative_change,质量诊断,relative change,source-specific,,blank_when_not_observed; zero_is_observed
+structural_breakpoints,bic_improvement,质量诊断,bic improvement,source-specific,,blank_when_not_observed; zero_is_observed
+structural_breakpoints,evidence_strength,质量诊断,evidence strength,source-specific,,blank_when_not_observed; zero_is_observed
+structural_breakpoints,unit,质量诊断,unit,source-specific,,blank_when_not_observed; zero_is_observed
+structural_breakpoints,price_basis,质量诊断,price basis,source-specific,,blank_when_not_observed; zero_is_observed
+correlation_robustness,scope,质量诊断,scope,source-specific,,blank_when_not_observed; zero_is_observed
+correlation_robustness,left_metric,质量诊断,left metric,source-specific,,blank_when_not_observed; zero_is_observed
+correlation_robustness,right_metric,质量诊断,right metric,source-specific,,blank_when_not_observed; zero_is_observed
+correlation_robustness,lineage_classification,质量诊断,lineage classification,source-specific,,blank_when_not_observed; zero_is_observed
+correlation_robustness,baseline_n,质量诊断,baseline n,source-specific,,blank_when_not_observed; zero_is_observed
+correlation_robustness,robust_n,质量诊断,robust n,source-specific,,blank_when_not_observed; zero_is_observed
+correlation_robustness,baseline_spearman,质量诊断,baseline spearman,source-specific,,blank_when_not_observed; zero_is_observed
+correlation_robustness,robust_spearman,质量诊断,robust spearman,source-specific,,blank_when_not_observed; zero_is_observed
+correlation_robustness,delta_spearman,质量诊断,delta spearman,source-specific,,blank_when_not_observed; zero_is_observed
+correlation_robustness,baseline_kendall,质量诊断,baseline kendall,source-specific,,blank_when_not_observed; zero_is_observed
+correlation_robustness,robust_kendall,质量诊断,robust kendall,source-specific,,blank_when_not_observed; zero_is_observed
+correlation_robustness,delta_kendall,质量诊断,delta kendall,source-specific,,blank_when_not_observed; zero_is_observed
+correlation_robustness,flagged_outliers_removed,质量诊断,flagged outliers removed,source-specific,,blank_when_not_observed; zero_is_observed
+correlation_robustness,stability,质量诊断,stability,source-specific,,blank_when_not_observed; zero_is_observed
+correlation_robustness,interpretation_limit,质量诊断,interpretation limit,source-specific,,blank_when_not_observed; zero_is_observed

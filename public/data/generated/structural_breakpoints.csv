@@ -1,0 +1,44 @@
+﻿metric_id,metric_label,series_variant,break_number,break_year,pre_start_year,pre_end_year,post_start_year,post_end_year,pre_mean_original,post_mean_original,relative_change,bic_improvement,evidence_strength,unit,price_basis
+fdi_stock,FDI stock,annual_total,1,2008,2003,2007,2008,2011,1681800000.0,11179262500.0,5.647201,60.667434,strong,USD,nominal_usd
+fdi_stock,FDI stock,coverage_normalized_mean,1,2008,2003,2007,2008,2011,31144444.444444,207023379.629629,5.647201,60.667434,strong,USD,nominal_usd
+fdi_stock,FDI stock,annual_total,2,2012,2008,2011,2012,2015,11179262500.0,28739987500.0,1.57083,60.667434,strong,USD,nominal_usd
+fdi_stock,FDI stock,coverage_normalized_mean,2,2012,2008,2011,2012,2015,207023379.629629,532221990.740741,1.57083,60.667434,strong,USD,nominal_usd
+fdi_stock,FDI stock,annual_total,3,2016,2012,2015,2016,2024,28739987500.0,43118726329.44888,0.500304,60.667434,strong,USD,nominal_usd
+fdi_stock,FDI stock,coverage_normalized_mean,3,2016,2012,2015,2016,2024,532221990.740741,798494932.026831,0.500304,60.667434,strong,USD,nominal_usd
+ihme,IHME DAH disbursement,annual_total,1,2004,2000,2003,2004,2007,4276.84823,8759.620426,1.048149,43.310253,strong,USD million,constant_2023_usd
+ihme,IHME DAH disbursement,annual_total,2,2008,2004,2007,2008,2012,8759.620426,15046.95742,0.717764,43.310253,strong,USD million,constant_2023_usd
+ihme,IHME DAH disbursement,annual_total,3,2013,2008,2012,2013,2023,15046.95742,22310.283541,0.482711,43.310253,strong,USD million,constant_2023_usd
+ihme,IHME DAH disbursement,coverage_normalized_mean,1,2004,2000,2003,2004,2007,79.200893,163.133687,1.059746,42.869899,strong,USD million,constant_2023_usd
+ihme,IHME DAH disbursement,coverage_normalized_mean,2,2008,2004,2007,2008,2012,163.133687,279.611874,0.714005,42.869899,strong,USD million,constant_2023_usd
+ihme,IHME DAH disbursement,coverage_normalized_mean,3,2013,2008,2012,2013,2023,279.611874,417.57882,0.493423,42.869899,strong,USD million,constant_2023_usd
+cla,CLA loan commitments,annual_total,1,2006,2000,2005,2006,2011,1021528333.333333,6294918333.333333,5.162255,35.350482,strong,USD,nominal_usd
+cla,CLA loan commitments,annual_total,2,2012,2006,2011,2012,2018,6294918333.333333,16163967142.857143,1.56778,35.350482,strong,USD,nominal_usd
+cla,CLA loan commitments,annual_total,3,2019,2012,2018,2019,2024,16163967142.857143,2235648333.333333,-0.861689,35.350482,strong,USD,nominal_usd
+aiddata,AidData commitments,annual_total,1,2006,2000,2005,2006,2011,3024197815.560177,14989244749.269625,3.956437,31.505749,strong,USD,constant_2023_usd
+aiddata,AidData commitments,annual_total,2,2012,2006,2011,2012,2018,14989244749.269625,25564903516.65707,0.70555,31.505749,strong,USD,constant_2023_usd
+aiddata,AidData commitments,annual_total,3,2019,2012,2018,2019,2023,25564903516.65707,9180488770.213211,-0.640895,31.505749,strong,USD,constant_2023_usd
+aiddata,AidData commitments,coverage_normalized_mean,1,2006,2000,2005,2006,2011,98522416.125578,360689038.642459,2.660985,26.678469,strong,USD,constant_2023_usd
+aiddata,AidData commitments,coverage_normalized_mean,2,2012,2006,2011,2012,2018,360689038.642459,581684284.010827,0.612703,26.678469,strong,USD,constant_2023_usd
+aiddata,AidData commitments,coverage_normalized_mean,3,2019,2012,2018,2019,2023,581684284.010827,211436572.600166,-0.63651,26.678469,strong,USD,constant_2023_usd
+cla,CLA loan commitments,coverage_normalized_mean,1,2006,2000,2005,2006,2012,70540509.710197,275988358.595428,2.91248,23.288794,strong,USD,nominal_usd
+cla,CLA loan commitments,coverage_normalized_mean,2,2013,2006,2012,2013,2018,275988358.595428,759977200.326244,1.753657,23.288794,strong,USD,nominal_usd
+cla,CLA loan commitments,coverage_normalized_mean,3,2019,2013,2018,2019,2024,759977200.326244,260191852.212602,-0.657632,23.288794,strong,USD,nominal_usd
+codf,CODF loan commitments,annual_total,1,2012,2008,2011,2012,2018,4840077500.0,13649921428.571428,1.820187,20.831903,strong,USD,nominal_usd
+codf,CODF loan commitments,annual_total,2,2019,2012,2018,2019,2024,13649921428.571428,1906170000.0,-0.860353,20.831903,strong,USD,nominal_usd
+fdi_flow,FDI flow,annual_total,1,2008,2003,2007,2008,2024,504814000.0,3368278723.802941,5.672316,17.176314,strong,USD,nominal_usd
+fdi_flow,FDI flow,coverage_normalized_mean,1,2008,2003,2007,2008,2024,9348407.407407,62375531.922277,5.672316,17.176314,strong,USD,nominal_usd
+china_eu_finance,China development finance,coverage_normalized_mean,1,2006,2002,2005,2006,2013,125502582.4207,491978214.555398,2.920064,9.200011,moderate,USD,constant_2017_usd
+china_eu_finance,China development finance,coverage_normalized_mean,2,2014,2006,2013,2014,2017,491978214.555398,870464663.67113,0.769315,9.200011,moderate,USD,constant_2017_usd
+china_eu_finance,China development finance,annual_total,1,2006,2002,2005,2006,2013,5057413661.272771,21495580648.79098,3.250311,9.187667,moderate,USD,constant_2017_usd
+china_eu_finance,China development finance,annual_total,2,2014,2006,2013,2014,2017,21495580648.79098,40986342712.21411,0.906733,9.187667,moderate,USD,constant_2017_usd
+codf,CODF loan commitments,coverage_normalized_mean,1,2012,2008,2011,2012,2018,280502055.555556,688808189.43405,1.455626,6.211756,moderate,USD,nominal_usd
+codf,CODF loan commitments,coverage_normalized_mean,2,2019,2012,2018,2019,2024,688808189.43405,260136544.973545,-0.622338,6.211756,moderate,USD,nominal_usd
+cgef,CGEF loan commitments,annual_total,1,2011,2002,2010,2011,2020,728332222.222222,4719679000.0,5.480118,5.637897,limited,USD,nominal_usd
+chapo,CHAPO commitments,annual_total,1,2005,2000,2004,2005,2021,39462164.088788,276318381.632033,6.002109,5.198228,limited,USD,constant_2021_usd
+cofi,COFI investment,coverage_normalized_mean,1,2015,2005,2014,2015,2020,299586470.555555,713054816.801913,1.38013,3.739278,limited,USD,nominal_usd
+cgp_capacity,CGP capacity,coverage_normalized_mean,1,2015,2005,2014,2015,2018,175.992472,1455.53125,7.270418,3.651471,limited,MW,not_applicable
+cgp_capacity,CGP capacity,coverage_normalized_mean,2,2019,2015,2018,2019,2023,1455.53125,153.556667,-0.894501,3.651471,limited,MW,not_applicable
+cgp_capacity,CGP capacity,annual_total,1,2015,2005,2014,2015,2018,628.031,4416.75,6.032694,3.037293,limited,MW,not_applicable
+cgp_capacity,CGP capacity,annual_total,2,2019,2015,2018,2019,2023,4416.75,288.68,-0.93464,3.037293,limited,MW,not_applicable
+cofi,COFI investment,annual_total,1,2013,2005,2012,2013,2020,1036209362.5,3713979949.649816,2.584198,1.628125,limited,USD,nominal_usd
+cgef,CGEF loan commitments,coverage_normalized_mean,1,2011,2002,2010,2011,2020,254030042.328042,707250016.575092,1.78412,0.800613,limited,USD,nominal_usd

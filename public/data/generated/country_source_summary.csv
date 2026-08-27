@@ -1,0 +1,604 @@
+﻿metric_id,metric_label,iso3,country_name_en,observed_year_count,first_observed_year,last_observed_year,total_value,annual_mean,annual_median,rank_within_metric,unit,price_basis,aggregation_caveat
+aiddata,AidData commitments,AGO,Angola,22,2001,2023,73827757104.82726,3355807141.128511,2531644054.824522,1,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,COD,"Congo, Dem. Rep.",22,2000,2023,22576763965.059727,1026216543.866351,338230094.061103,2,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,ZAF,South Africa,22,2001,2023,22439024541.025135,1019955660.955688,521360963.630289,3,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,ETH,Ethiopia,24,2000,2023,18920406246.733307,788350260.280554,223504667.26928,4,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,NGA,Nigeria,20,2002,2023,18776530748.254227,938826537.412711,835409946.088216,5,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,SDN,Sudan,24,2000,2023,17432864013.401173,726369333.891716,252357024.27203,6,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,EGY,Egypt,21,2002,2023,16935044771.329649,806430703.39665,153469691.484455,7,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,ZMB,Zambia,24,2000,2023,13155006425.603321,548125267.733472,199969954.483245,8,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,KEN,Kenya,22,2001,2023,11082618128.872452,503755369.494202,227439033.956594,9,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,GHA,Ghana,23,2000,2023,10343919908.479053,449735648.194741,233404744.69901,10,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,GNQ,Equatorial Guinea,22,2001,2022,9345669479.658516,424803158.166296,176932462.28923,11,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,MOZ,Mozambique,22,2000,2022,8990842556.48569,408674661.65844,35624813.635587,12,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,CMR,Cameroon,19,2001,2022,8134268491.339434,428119394.281023,188954073.013924,13,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,GIN,Guinea,18,2001,2023,7259361673.260499,403297870.736694,86773553.724623,14,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,CIV,Cote d'Ivoire,20,2000,2023,6859170044.890212,342958502.244511,125369042.398768,15,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,ZWE,Zimbabwe,24,2000,2023,5265840384.178667,219410016.007444,99688472.728797,16,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,UGA,Uganda,23,2000,2023,5215948567.005418,226780372.478496,51997361.533419,17,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,NER,Niger,23,2001,2023,5128896078.819757,222995481.687816,17694702.385429,18,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,SSD,South Sudan,12,2011,2022,4986073859.485082,415506154.95709,23795094.718414,19,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,SLE,Sierra Leone,21,2000,2023,4616925602.552721,219853600.121558,17632627.52014,20,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,SEN,Senegal,18,2005,2023,3997980392.541021,222110021.807835,111261008.002535,21,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,TZA,Tanzania,24,2000,2023,3617085567.570231,150711898.64876,58204434.583283,22,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,BWA,Botswana,18,2000,2023,3586321136.266459,199240063.125914,9768632.456171,23,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,GAB,Gabon,18,2000,2023,2614202006.627555,145233444.812642,45017534.404116,24,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,BEN,Benin,22,2000,2023,2511046054.082327,114138457.003742,42375556.970853,25,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,TCD,Chad,15,2007,2023,2375155778.331905,158343718.55546,30769451.475708,26,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,NAM,Namibia,22,2000,2023,2333288268.0951,106058557.640686,19030089.749708,27,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,DJI,Djibouti,20,2001,2023,2248981117.334212,112449055.866711,30178508.710552,28,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,MAR,Morocco,13,2000,2021,1996656042.816764,153588926.37052,15766938.776924,29,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,MLI,Mali,20,2000,2023,1689835548.174567,84491777.408728,37269148.253797,30,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,ERI,Eritrea,18,2000,2023,1533066403.08728,85170355.727071,66777600.066228,31,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,MRT,Mauritania,19,2002,2023,1510996392.317003,79526125.911421,50394422.485692,32,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,TGO,Togo,22,2001,2023,1414529837.701701,64296810.804623,31251485.893906,33,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,MUS,Mauritius,22,2000,2022,1356778144.057998,61671733.820818,33857537.213175,34,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,RWA,Rwanda,18,2001,2023,1252546480.067343,69585915.559297,48633556.182712,35,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,MDG,Madagascar,20,2000,2023,1090815637.421105,54540781.871055,18150923.630366,36,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,MWI,Malawi,17,2007,2023,1027887469.605467,60463968.800322,68738829.981049,37,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,LBR,Liberia,20,2004,2023,961585096.803265,48079254.840163,19895060.653438,38,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,BDI,Burundi,20,2001,2022,556125032.862965,27806251.643148,13901475.023806,39,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,TUN,Tunisia,14,2004,2022,549115080.916311,39222505.779737,34467072.051733,40,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,LBY,Libya,5,2009,2023,525249669.962894,105049933.992579,4237022.424017,41,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,CPV,Cape Verde,22,2000,2023,480072649.471553,21821484.066889,9866272.403632,42,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,LSO,Lesotho,21,2001,2023,476427755.749863,22687035.988089,10922412.021096,43,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,BFA,Burkina Faso,5,2018,2023,462931736.169,92586347.2338,98967138.977133,44,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,DZA,Algeria,13,2003,2023,286821164.54094,22063166.503149,7012075.743541,45,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,GNB,Guinea-Bissau,21,2001,2022,284416486.308684,13543642.205175,8703019.07522,46,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,COM,Comoros,20,2000,2021,279117627.264892,13955881.363245,5519810.042132,47,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,STP,Sao Tome & Principe,6,2017,2022,215348468.570021,35891411.428337,30730106.459319,48,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,GMB,The Gambia,8,2016,2023,197852203.999402,24731525.499925,3056349.762846,49,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,SYC,Seychelles,13,2001,2017,137125321.610374,10548101.662336,8982579.591097,50,USD,constant_2023_usd,within_source_price_basis_preserved
+aiddata,AidData commitments,SOM,Somalia,15,2004,2023,75130695.054855,5008713.003657,2134244.698059,51,USD,constant_2023_usd,within_source_price_basis_preserved
+codf,CODF loan commitments,AGO,Angola,15,2008,2024,33173880000.0,2211592000.0,880930000.0,1,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,KEN,Kenya,13,2008,2024,9541720000.0,733978461.538462,350820000.0,2,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,ETH,Ethiopia,11,2008,2018,8386350000.0,762395454.545455,619000000.0,3,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,NGA,Nigeria,8,2010,2023,8230840000.0,1028855000.0,892510000.0,4,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,EGY,Egypt,8,2012,2024,6678510000.0,834813750.0,480500000.0,5,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,ZAF,South Africa,4,2015,2018,5881190000.0,1470297500.0,1440595000.0,6,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,CMR,Cameroon,10,2009,2018,5361350000.0,536135000.0,390760000.0,7,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,ZMB,Zambia,10,2008,2018,4244430000.0,424443000.0,301945000.0,8,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,UGA,Uganda,9,2009,2023,3952760000.0,439195555.555556,359350000.0,9,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,GNQ,Equatorial Guinea,8,2009,2019,3764770000.0,470596250.0,366015000.0,10,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,CIV,Cote d'Ivoire,11,2008,2022,3719640000.0,338149090.909091,210170000.0,11,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,GHA,Ghana,8,2009,2020,2918200000.0,364775000.0,266705000.0,12,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,COG,"Congo, Rep.",5,2008,2017,2819390000.0,563878000.0,563290000.0,13,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,COD,"Congo, Dem. Rep.",9,2008,2024,2747960000.0,305328888.888889,304130000.0,14,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,SDN,Sudan,4,2008,2012,2542000000.0,635500000.0,495500000.0,15,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,ZWE,Zimbabwe,9,2010,2019,2457100000.0,273011111.111111,217240000.0,16,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,TZA,Tanzania,7,2008,2022,2374940000.0,339277142.857143,200000000.0,17,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,MOZ,Mozambique,7,2009,2020,2283060000.0,326151428.571429,156000000.0,18,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,SEN,Senegal,9,2009,2024,2166500000.0,240722222.222222,138300000.0,19,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,GIN,Guinea,3,2013,2018,2029000000.0,676333333.333333,385000000.0,20,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,GAB,Gabon,6,2008,2019,1488760000.0,248126666.666667,134695000.0,21,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,DJI,Djibouti,5,2011,2017,1303190000.0,260638000.0,64000000.0,22,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,MAR,Morocco,3,2008,2014,1003060000.0,334353333.333333,304500000.0,23,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,TGO,Togo,7,2009,2016,722330000.0,103190000.0,112630000.0,24,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,MDG,Madagascar,5,2017,2023,654360000.0,130872000.0,105000000.0,25,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,TCD,Chad,3,2011,2019,648430000.0,216143333.333333,188430000.0,26,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,MRT,Mauritania,4,2009,2019,604250000.0,151062500.0,112650000.0,27,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,RWA,Rwanda,6,2009,2022,596880000.0,99480000.0,93465000.0,28,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,MLI,Mali,5,2010,2018,579720000.0,115944000.0,145000000.0,29,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,ERI,Eritrea,5,2011,2018,542840000.0,108568000.0,98000000.0,30,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,MUS,Mauritius,3,2009,2018,472340000.0,157446666.666667,89780000.0,31,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,SSD,South Sudan,2,2014,2018,398800000.0,199400000.0,199400000.0,32,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,BEN,Benin,5,2010,2022,369100000.0,73820000.0,79610000.0,33,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,MWI,Malawi,4,2009,2020,342670000.0,85667500.0,86120000.0,34,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,NER,Niger,4,2011,2014,325900000.0,81475000.0,87650000.0,35,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,LSO,Lesotho,5,2008,2022,269260000.0,53852000.0,33790000.0,36,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,SLE,Sierra Leone,2,2017,2019,160000000.0,80000000.0,80000000.0,37,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,BFA,Burkina Faso,2,2020,2023,130130000.0,65065000.0,65065000.0,38,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,NAM,Namibia,1,2012,2012,120970000.0,120970000.0,120970000.0,39,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,COM,Comoros,2,2010,2018,117410000.0,58705000.0,58705000.0,40,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,TUN,Tunisia,1,2009,2009,80150000.0,80150000.0,80150000.0,41,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,BDI,Burundi,2,2013,2017,64030000.0,32015000.0,32015000.0,42,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,LBR,Liberia,1,2016,2016,52710000.0,52710000.0,52710000.0,43,USD,nominal_usd,nominal_values_not_inflation_adjusted
+codf,CODF loan commitments,GMB,The Gambia,1,2018,2018,25900000.0,25900000.0,25900000.0,44,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,AGO,Angola,22,2002,2024,49243260000.0,2238330000.0,961815000.0,1,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,ETH,Ethiopia,15,2001,2019,13954800000.0,930320000.0,579380000.0,2,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,KEN,Kenya,17,2001,2024,10011890000.0,588934705.882353,239950000.0,3,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,ZMB,Zambia,19,2001,2020,9524910000.0,501311052.631579,180220000.0,4,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,NGA,Nigeria,10,2002,2023,8881670000.0,888167000.0,692110000.0,5,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,EGY,Egypt,11,2002,2024,7710270000.0,700933636.363636,200000000.0,6,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,SDN,Sudan,14,2001,2018,6327880000.0,451991428.571429,218435000.0,7,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,CMR,Cameroon,14,2004,2019,5910660000.0,422190000.0,205885000.0,8,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,GHA,Ghana,15,2000,2022,5758980000.0,383932000.0,274070000.0,9,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,ZAF,South Africa,11,2001,2018,5491210000.0,499200909.090909,73000000.0,10,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,COG,"Congo, Rep.",9,2000,2017,5045350000.0,560594444.444444,551510000.0,11,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,GNQ,Equatorial Guinea,14,2001,2019,4950810000.0,353629285.714286,295160000.0,12,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,UGA,Uganda,11,2007,2023,4203290000.0,382117272.727273,297410000.0,13,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,COD,"Congo, Dem. Rep.",16,2005,2024,3394000000.0,212125000.0,98510000.0,14,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,SEN,Senegal,14,2005,2024,3334290000.0,238163571.428571,127085000.0,15,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,ZWE,Zimbabwe,18,2000,2019,3229310000.0,179406111.111111,97635000.0,16,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,GIN,Guinea,9,2003,2018,2705340000.0,300593333.333333,13190000.0,17,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,TZA,Tanzania,10,2004,2022,2405400000.0,240540000.0,122215000.0,18,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,MOZ,Mozambique,10,2001,2020,2397250000.0,239725000.0,124500000.0,19,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,GAB,Gabon,17,2000,2019,1946320000.0,114489411.764706,33980000.0,20,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,DJI,Djibouti,7,2003,2017,1577530000.0,225361428.571429,64000000.0,21,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,MAR,Morocco,6,2000,2014,1029760000.0,171626666.666667,98320000.0,22,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,BWA,Botswana,9,2000,2009,952210000.0,105801111.111111,10510000.0,23,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,TGO,Togo,10,2004,2016,906560000.0,90656000.0,56400000.0,24,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,TCD,Chad,5,2007,2019,846870000.0,169374000.0,130000000.0,25,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,SLE,Sierra Leone,6,2007,2019,748960000.0,124826666.666667,16480000.0,26,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,MRT,Mauritania,7,2006,2019,748930000.0,106990000.0,87000000.0,27,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,BEN,Benin,10,2000,2022,741300000.0,74130000.0,35265000.0,28,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,ERI,Eritrea,9,2000,2023,709730000.0,78858888.888889,87000000.0,29,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,MDG,Madagascar,7,2007,2023,708950000.0,101278571.428571,102650000.0,30,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,RWA,Rwanda,10,2003,2022,665270000.0,66527000.0,30760000.0,31,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,MUS,Mauritius,18,2000,2018,637570000.0,35420555.555556,7695000.0,32,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,MLI,Mali,6,2010,2018,636140000.0,106023333.333333,115500000.0,33,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,NER,Niger,5,2011,2015,564930000.0,112986000.0,74680000.0,34,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,MWI,Malawi,8,2009,2020,550820000.0,68852500.0,68455000.0,35,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,NAM,Namibia,9,2000,2012,494030000.0,54892222.222222,10700000.0,36,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,SSD,South Sudan,2,2014,2018,398800000.0,199400000.0,199400000.0,37,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,LSO,Lesotho,6,2008,2022,285060000.0,47510000.0,37170000.0,38,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,BFA,Burkina Faso,3,2019,2023,207490000.0,69163333.333333,77350000.0,39,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,TUN,Tunisia,6,2000,2009,129100000.0,21516666.666667,13090000.0,40,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,BDI,Burundi,6,2008,2017,127500000.0,21250000.0,11920000.0,41,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,COM,Comoros,3,2004,2018,125430000.0,41810000.0,31760000.0,42,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,LBR,Liberia,2,2006,2016,57710000.0,28855000.0,28855000.0,43,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,CPV,Cape Verde,5,2006,2017,56600000.0,11320000.0,12500000.0,44,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,GMB,The Gambia,2,2017,2018,50900000.0,25450000.0,25450000.0,45,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,DZA,Algeria,1,2003,2003,40000000.0,40000000.0,40000000.0,46,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cla,CLA loan commitments,SYC,Seychelles,4,2005,2011,35300000.0,8825000.0,9195000.0,47,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,ZMB,Zambia,5,2001,2019,392130000.0,78426000.0,39860000.0,1,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,CMR,Cameroon,5,2001,2019,208000000.0,41600000.0,32000000.0,2,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,GHA,Ghana,4,2002,2019,200500000.0,50125000.0,46750000.0,3,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,SDN,Sudan,3,2001,2010,156260000.0,52086666.666667,67000000.0,4,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,ETH,Ethiopia,2,2001,2007,141060000.0,70530000.0,70530000.0,5,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,MLI,Mali,3,2001,2007,130050000.0,43350000.0,40050000.0,6,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,MOZ,Mozambique,4,2001,2017,106500000.0,26625000.0,32000000.0,7,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,COG,"Congo, Rep.",2,2007,2019,84000000.0,42000000.0,42000000.0,8,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,UGA,Uganda,2,2001,2007,67000000.0,33500000.0,33500000.0,9,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,BDI,Burundi,2,2001,2007,62500000.0,31250000.0,31250000.0,10,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,TGO,Togo,3,2001,2012,61098000.0,20366000.0,20000000.0,11,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,MRT,Mauritania,1,2007,2007,61000000.0,61000000.0,61000000.0,12,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,TZA,Tanzania,3,2001,2011,58700000.0,19566666.666667,19200000.0,13,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,COD,"Congo, Dem. Rep.",2,2002,2007,55200000.0,27600000.0,27600000.0,14,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,GIN,Guinea,2,2005,2007,49000000.0,24500000.0,24500000.0,15,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,CAF,CAR,3,2007,2019,44300000.0,14766666.666667,10000000.0,16,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,ZWE,Zimbabwe,1,2015,2015,40000000.0,40000000.0,40000000.0,17,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,TCD,Chad,1,2007,2007,33000000.0,33000000.0,33000000.0,18,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,MDG,Madagascar,1,2001,2001,30000000.0,30000000.0,30000000.0,19,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,STP,Sao Tome & Principe,1,2017,2017,28000000.0,28000000.0,28000000.0,20,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,SEN,Senegal,2,2006,2007,26500000.0,13250000.0,13250000.0,21,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,SLE,Sierra Leone,2,2007,2016,24880000.0,12440000.0,12440000.0,22,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,CIV,Cote d'Ivoire,1,2007,2007,24600000.0,24600000.0,24600000.0,23,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,LBR,Liberia,2,2006,2007,22000000.0,11000000.0,11000000.0,24,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,LSO,Lesotho,3,2001,2018,21330000.0,7110000.0,6400000.0,25,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,AGO,Angola,3,2007,2017,17270000.0,5756666.666667,7000000.0,26,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,RWA,Rwanda,1,2001,2001,16350000.0,16350000.0,16350000.0,27,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,KEN,Kenya,1,2001,2001,13660000.0,13660000.0,13660000.0,28,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,GMB,The Gambia,1,2017,2017,12320000.0,12320000.0,12320000.0,29,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,BEN,Benin,1,2002,2002,10000000.0,10000000.0,10000000.0,30,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,ERI,Eritrea,2,2003,2016,10000000.0,5000000.0,5000000.0,31,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,GNQ,Equatorial Guinea,1,2007,2007,10000000.0,10000000.0,10000000.0,32,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,COM,Comoros,3,2001,2017,9730000.0,3243333.333333,3300000.0,33,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,BWA,Botswana,1,2018,2018,7760000.0,7760000.0,7760000.0,34,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,GNB,Guinea-Bissau,1,2001,2001,5800000.0,5800000.0,5800000.0,35,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,SYC,Seychelles,1,2018,2018,5500000.0,5500000.0,5500000.0,36,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cancel,Debt cancellation,SOM,Somalia,1,2005,2005,3000000.0,3000000.0,3000000.0,37,USD,nominal_usd,nominal_values_not_inflation_adjusted
+restruct,Debt restructuring,AGO,Angola,1,2016,2016,7500000000.0,7500000000.0,7500000000.0,1,USD,nominal_usd,nominal_values_not_inflation_adjusted
+restruct,Debt restructuring,ETH,Ethiopia,1,2018,2018,2490000000.0,2490000000.0,2490000000.0,2,USD,nominal_usd,nominal_values_not_inflation_adjusted
+restruct,Debt restructuring,MOZ,Mozambique,1,2017,2017,2020000000.0,2020000000.0,2020000000.0,3,USD,nominal_usd,nominal_values_not_inflation_adjusted
+restruct,Debt restructuring,COG,"Congo, Rep.",2,2018,2019,1728000000.0,864000000.0,864000000.0,4,USD,nominal_usd,nominal_values_not_inflation_adjusted
+restruct,Debt restructuring,TCD,Chad,1,2017,2017,447000000.0,447000000.0,447000000.0,5,USD,nominal_usd,nominal_values_not_inflation_adjusted
+restruct,Debt restructuring,ZWE,Zimbabwe,5,2003,2012,370000000.0,74000000.0,55000000.0,6,USD,nominal_usd,nominal_values_not_inflation_adjusted
+restruct,Debt restructuring,CMR,Cameroon,2,2002,2019,258150000.0,129075000.0,129075000.0,7,USD,nominal_usd,nominal_values_not_inflation_adjusted
+restruct,Debt restructuring,NER,Niger,1,2018,2018,161000000.0,161000000.0,161000000.0,8,USD,nominal_usd,nominal_values_not_inflation_adjusted
+restruct,Debt restructuring,SYC,Seychelles,1,2011,2011,24000000.0,24000000.0,24000000.0,9,USD,nominal_usd,nominal_values_not_inflation_adjusted
+restruct,Debt restructuring,BEN,Benin,1,2004,2004,17000000.0,17000000.0,17000000.0,10,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cofi,COFI investment,NGA,Nigeria,4,2002,2019,7143800000.0,1785950000.0,992000000.0,1,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cofi,COFI investment,AGO,Angola,4,2013,2016,5230000000.0,1307500000.0,509000000.0,2,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cofi,COFI investment,ZAF,South Africa,3,2015,2018,4701514597.198525,1567171532.399508,450000000.0,3,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cofi,COFI investment,ETH,Ethiopia,8,2002,2017,2976155000.0,372019375.0,285125000.0,4,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cofi,COFI investment,GIN,Guinea,3,2011,2019,2322000000.0,774000000.0,812000000.0,5,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cofi,COFI investment,ZMB,Zambia,4,2008,2017,2205500000.0,551375000.0,407000000.0,6,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cofi,COFI investment,UGA,Uganda,1,2015,2015,1927500000.0,1927500000.0,1927500000.0,7,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cofi,COFI investment,SDN,Sudan,5,2000,2009,1549000000.0,309800000.0,175000000.0,8,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cofi,COFI investment,ZWE,Zimbabwe,2,2013,2018,1318000000.0,659000000.0,659000000.0,9,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cofi,COFI investment,COD,"Congo, Dem. Rep.",2,2011,2015,1192000000.0,596000000.0,596000000.0,10,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cofi,COFI investment,KEN,Kenya,4,2010,2017,1181700000.0,295425000.0,117350000.0,11,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cofi,COFI investment,GHA,Ghana,3,2007,2012,959000000.0,319666666.666667,200000000.0,12,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cofi,COFI investment,CMR,Cameroon,5,2009,2017,907000000.0,181400000.0,90000000.0,13,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cofi,COFI investment,CIV,Cote d'Ivoire,2,2013,2019,848200000.0,424100000.0,424100000.0,14,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cofi,COFI investment,BWA,Botswana,1,2009,2009,825000000.0,825000000.0,825000000.0,15,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cofi,COFI investment,MWI,Malawi,1,2018,2018,667000000.0,667000000.0,667000000.0,16,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cofi,COFI investment,COG,"Congo, Rep.",3,2003,2012,644000000.0,214666666.666667,238000000.0,17,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cofi,COFI investment,MAR,Morocco,4,2002,2018,463340000.0,115835000.0,78195000.0,18,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cofi,COFI investment,GNQ,Equatorial Guinea,2,2006,2009,395874900.0,197937450.0,197937450.0,19,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cofi,COFI investment,MLI,Mali,2,2013,2014,347000000.0,173500000.0,173500000.0,20,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cofi,COFI investment,GAB,Gabon,2,2008,2018,339110000.0,169555000.0,169555000.0,21,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cofi,COFI investment,BEN,Benin,1,2015,2015,229000000.0,229000000.0,229000000.0,22,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cofi,COFI investment,RWA,Rwanda,1,2020,2020,214000000.0,214000000.0,214000000.0,23,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cofi,COFI investment,MDG,Madagascar,1,2018,2018,197000000.0,197000000.0,197000000.0,24,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cofi,COFI investment,EGY,Egypt,1,2017,2017,152760000.0,152760000.0,152760000.0,25,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cofi,COFI investment,ERI,Eritrea,1,2014,2014,100000000.0,100000000.0,100000000.0,26,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cofi,COFI investment,LSO,Lesotho,1,2020,2020,70000000.0,70000000.0,70000000.0,27,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cofi,COFI investment,TGO,Togo,1,2016,2016,57000000.0,57000000.0,57000000.0,28,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cofi,COFI investment,TZA,Tanzania,1,2016,2016,38250000.0,38250000.0,38250000.0,29,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cofi,COFI investment,CAF,CAR,1,2011,2011,30000000.0,30000000.0,30000000.0,30,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cofi,COFI investment,SSD,South Sudan,1,2013,2013,27000000.0,27000000.0,27000000.0,31,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cofi,COFI investment,NAM,Namibia,1,2018,2018,25000000.0,25000000.0,25000000.0,32,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cgef,CGEF loan commitments,AGO,Angola,12,2002,2016,24210700000.0,2017558333.333333,207305000.0,1,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cgef,CGEF loan commitments,ZAF,South Africa,3,2016,2018,4500000000.0,1500000000.0,1500000000.0,2,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cgef,CGEF loan commitments,UGA,Uganda,5,2014,2023,2427570000.0,485514000.0,213000000.0,3,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cgef,CGEF loan commitments,ZMB,Zambia,4,2008,2017,2188310000.0,547077500.0,249415000.0,4,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cgef,CGEF loan commitments,SDN,Sudan,6,2002,2010,2060000000.0,343333333.333333,201850000.0,5,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cgef,CGEF loan commitments,ETH,Ethiopia,9,2007,2017,2057050000.0,228561111.111111,191500000.0,6,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cgef,CGEF loan commitments,GNQ,Equatorial Guinea,5,2006,2019,1812120000.0,362424000.0,290320000.0,7,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cgef,CGEF loan commitments,KEN,Kenya,9,2006,2019,1639650000.0,182183333.333333,107490000.0,8,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cgef,CGEF loan commitments,GHA,Ghana,2,2007,2012,1599560000.0,799780000.0,799780000.0,9,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cgef,CGEF loan commitments,CIV,Cote d'Ivoire,3,2013,2019,1558480000.0,519493333.333333,500000000.0,10,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cgef,CGEF loan commitments,GIN,Guinea,2,2013,2018,1510000000.0,755000000.0,755000000.0,11,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cgef,CGEF loan commitments,ZWE,Zimbabwe,2,2013,2016,1317200000.0,658600000.0,658600000.0,12,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cgef,CGEF loan commitments,TZA,Tanzania,1,2012,2012,1195000000.0,1195000000.0,1195000000.0,13,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cgef,CGEF loan commitments,COD,"Congo, Dem. Rep.",4,2011,2018,1178430000.0,294607500.0,329500000.0,14,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cgef,CGEF loan commitments,NGA,Nigeria,1,2013,2013,984320000.0,984320000.0,984320000.0,15,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cgef,CGEF loan commitments,CMR,Cameroon,3,2010,2017,727880000.0,242626666.666667,141840000.0,16,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cgef,CGEF loan commitments,EGY,Egypt,1,2017,2017,690000000.0,690000000.0,690000000.0,17,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cgef,CGEF loan commitments,GAB,Gabon,3,2008,2018,504690000.0,168230000.0,131580000.0,18,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cgef,CGEF loan commitments,MAR,Morocco,1,2014,2014,304500000.0,304500000.0,304500000.0,19,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cgef,CGEF loan commitments,SEN,Senegal,3,2007,2013,262700000.0,87566666.666667,75780000.0,20,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cgef,CGEF loan commitments,MDG,Madagascar,1,2023,2023,240000000.0,240000000.0,240000000.0,21,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cgef,CGEF loan commitments,RWA,Rwanda,1,2020,2020,214000000.0,214000000.0,214000000.0,22,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cgef,CGEF loan commitments,NER,Niger,2,2011,2013,175300000.0,87650000.0,87650000.0,23,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cgef,CGEF loan commitments,MLI,Mali,1,2013,2013,145000000.0,145000000.0,145000000.0,24,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cgef,CGEF loan commitments,MRT,Mauritania,1,2013,2013,138300000.0,138300000.0,138300000.0,25,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cgef,CGEF loan commitments,TCD,Chad,1,2012,2012,130000000.0,130000000.0,130000000.0,26,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cgef,CGEF loan commitments,COG,"Congo, Rep.",1,2013,2013,128980000.0,128980000.0,128980000.0,27,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cgef,CGEF loan commitments,TGO,Togo,2,2013,2014,112860000.0,56430000.0,56430000.0,28,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cgef,CGEF loan commitments,ERI,Eritrea,1,2014,2014,98000000.0,98000000.0,98000000.0,29,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cgef,CGEF loan commitments,LSO,Lesotho,1,2020,2020,66830000.0,66830000.0,66830000.0,30,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cgef,CGEF loan commitments,BFA,Burkina Faso,1,2023,2023,50130000.0,50130000.0,50130000.0,31,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cgef,CGEF loan commitments,DJI,Djibouti,1,2016,2016,20400000.0,20400000.0,20400000.0,32,USD,nominal_usd,nominal_values_not_inflation_adjusted
+cgef,CGEF loan commitments,MUS,Mauritius,1,2011,2011,5800000.0,5800000.0,5800000.0,33,USD,nominal_usd,nominal_values_not_inflation_adjusted
+chapo,CHAPO commitments,AGO,Angola,11,2001,2021,822610418.197749,74782765.290704,3600000.0,1,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,KEN,Kenya,14,2002,2021,597707825.016268,42693416.072591,7571460.389232,2,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,ZMB,Zambia,13,2006,2021,339904264.889079,26146481.914545,2494836.148523,3,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,ZAF,South Africa,3,2018,2021,328932368.871122,109644122.957041,5495607.8,4,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,ZWE,Zimbabwe,9,2009,2021,214114562.64325,23790506.960361,15405581.138434,5,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,MRT,Mauritania,11,2009,2021,201106906.373749,18282446.033977,18345975.642216,6,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,TZA,Tanzania,8,2005,2021,188697046.089469,23587130.761184,4401135.133898,7,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,COG,"Congo, Rep.",11,2002,2021,133164362.304308,12105851.118573,1834597.564222,8,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,BFA,Burkina Faso,3,2018,2021,128623069.241496,42874356.413832,7740998.68357,9,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,RWA,Rwanda,6,2006,2021,95807017.597191,15967836.266199,8095281.051606,10,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,NER,Niger,11,2002,2021,93466678.629706,8496970.784519,1660863.890645,11,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,ETH,Ethiopia,5,2008,2021,90771143.885526,18154228.777105,4480147.937992,12,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,EGY,Egypt,4,2009,2021,85943909.214653,21485977.303663,3031378.394561,13,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,CMR,Cameroon,9,2003,2021,83849957.890173,9316661.987797,7302607.256661,14,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,LSO,Lesotho,5,2016,2021,76730312.780904,15346062.556181,1611763.319995,15,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,DZA,Algeria,2,2020,2021,68790471.003025,34395235.501512,34395235.501512,16,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,SLE,Sierra Leone,8,2006,2021,68138174.724195,8517271.840524,276516.707478,17,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,MOZ,Mozambique,5,2012,2021,67189707.424694,13437941.484939,5785942.090956,18,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,SSD,South Sudan,13,2007,2021,66102956.366136,5084842.797395,1800000.0,19,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,TUN,Tunisia,3,2012,2021,64420520.932449,21473506.977483,3600000.0,20,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,DJI,Djibouti,6,2003,2021,61246373.97244,10207728.995407,7518776.68756,21,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,UGA,Uganda,14,2000,2021,60481973.199033,4320140.942788,1360448.38413,22,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,MWI,Malawi,9,2013,2021,58113252.450539,6457028.05006,193694.191269,23,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,MAR,Morocco,3,2001,2021,56630980.525562,18876993.508521,9000000.0,24,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,TGO,Togo,11,2003,2021,54976985.982454,4997907.816587,666814.673887,25,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,LBR,Liberia,14,2006,2021,54042712.95742,3860193.782673,567383.65203,26,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,NGA,Nigeria,12,2002,2021,52380273.309387,4365022.775782,1186847.222417,27,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,SDN,Sudan,10,2002,2021,48690926.768676,4869092.676868,3275681.573441,28,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,GIN,Guinea,7,2006,2021,48292057.595339,6898865.370763,5535476.157042,29,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,CAF,CAR,10,2002,2021,45662868.532446,4566286.853245,346469.749723,30,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,GAB,Gabon,5,2005,2021,42041661.807508,8408332.361502,2057480.169465,31,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,SEN,Senegal,9,2006,2021,41357483.599022,4595275.955447,624683.993985,32,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,CIV,Cote d'Ivoire,8,2008,2021,41011111.41974,5126388.927467,1529291.724393,33,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,GHA,Ghana,14,2000,2021,40194670.329739,2871047.880696,623006.854319,34,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,GNB,Guinea-Bissau,7,2003,2021,39369171.135351,5624167.30505,855808.330777,35,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,MLI,Mali,9,2007,2021,36573829.772009,4063758.863557,1074818.941016,36,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,MDG,Madagascar,10,2007,2021,35960761.122378,3596076.112238,597223.9403,37,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,ERI,Eritrea,4,2000,2015,33396767.057803,8349191.764451,4290686.944908,38,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,BEN,Benin,8,2004,2021,29560454.24369,3695056.780461,1798396.36829,39,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,NAM,Namibia,6,2007,2021,28360336.792355,4726722.798726,1221990.395884,40,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,CPV,Cape Verde,9,2001,2021,28185210.48918,3131690.054353,2278570.174763,41,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,MUS,Mauritius,3,2008,2021,24831139.574416,8277046.524805,7827199.613587,42,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,COM,Comoros,5,2007,2021,22874262.464776,4574852.492955,575764.602523,43,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,BDI,Burundi,8,2004,2020,21121801.780442,2640225.222555,1111971.367875,44,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,SOM,Somalia,4,2007,2021,15253353.546607,3813338.386652,1207925.324033,45,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,LBY,Libya,2,2018,2020,10738123.972294,5369061.986147,5369061.986147,46,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,GMB,The Gambia,4,2017,2021,10165278.068699,2541319.517175,332950.957582,47,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,TCD,Chad,6,2013,2021,9644687.271334,1607447.878556,1070194.478928,48,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,GNQ,Equatorial Guinea,10,2007,2021,9339792.549516,933979.254952,212554.718045,49,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,BWA,Botswana,6,2007,2021,8971091.840757,1495181.973459,518560.972416,50,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,SYC,Seychelles,5,2008,2021,6044131.895594,1208826.379119,194570.875208,51,USD,constant_2021_usd,within_source_price_basis_preserved
+chapo,CHAPO commitments,STP,Sao Tome & Principe,3,2019,2021,3138108.086859,1046036.028953,1174521.63356,52,USD,constant_2021_usd,within_source_price_basis_preserved
+aidexports,Aid exports,ETH,Ethiopia,10,2015,2024,260738986.0,26073898.6,14284080.5,1,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,MOZ,Mozambique,10,2015,2024,114429415.0,11442941.5,13192923.0,2,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,ZWE,Zimbabwe,10,2015,2024,108123618.0,10812361.8,7984580.0,3,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,TZA,Tanzania,10,2015,2024,102335496.0,10233549.6,5564469.0,4,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,EGY,Egypt,10,2015,2024,89792913.0,8979291.3,1726733.0,5,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,DJI,Djibouti,10,2015,2024,84397447.0,8439744.7,4921329.5,6,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,MRT,Mauritania,10,2015,2024,78162961.0,7816296.1,7298073.5,7,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,ZMB,Zambia,10,2015,2024,75708081.0,7570808.1,5852158.5,8,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,KEN,Kenya,10,2015,2024,68246290.0,6824629.0,2241984.5,9,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,CIV,Cote d'Ivoire,10,2015,2024,67376272.0,6737627.2,1499189.0,10,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,NER,Niger,10,2015,2024,65178049.0,6517804.9,7522862.5,11,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,SSD,South Sudan,10,2015,2024,64929128.0,6492912.8,5600338.0,12,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,BDI,Burundi,10,2015,2024,62291465.0,6229146.5,4981490.5,13,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,UGA,Uganda,10,2015,2024,58709286.0,5870928.6,3127077.5,14,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,SLE,Sierra Leone,10,2015,2024,53612610.0,5361261.0,4246406.0,15,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,TUN,Tunisia,10,2015,2024,52960703.0,5296070.3,5899872.5,16,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,MLI,Mali,10,2015,2024,52530423.0,5253042.3,5329595.0,17,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,SEN,Senegal,10,2015,2024,52166003.0,5216600.3,4927078.5,18,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,GHA,Ghana,10,2015,2024,51772073.0,5177207.3,3640951.0,19,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,CMR,Cameroon,10,2015,2024,51599976.0,5159997.6,4193742.0,20,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,COD,"Congo, Dem. Rep.",10,2015,2024,51227496.0,5122749.6,5012413.5,21,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,GIN,Guinea,10,2015,2024,49710059.0,4971005.9,5204315.5,22,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,SDN,Sudan,10,2015,2024,46510344.0,4651034.4,2168900.5,23,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,CPV,Cape Verde,10,2015,2024,43418398.0,4341839.8,3316726.0,24,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,TCD,Chad,10,2015,2024,42595014.0,4259501.4,3729894.0,25,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,GMB,The Gambia,10,2015,2024,42210377.0,4221037.7,1996272.0,26,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,TGO,Togo,10,2015,2024,41827949.0,4182794.9,2492450.5,27,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,COG,"Congo, Rep.",10,2015,2024,39297630.0,3929763.0,3766446.0,28,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,NAM,Namibia,10,2015,2024,38901899.0,3890189.9,1862651.0,29,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,LSO,Lesotho,10,2015,2024,35444033.0,3544403.3,2358163.0,30,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,BFA,Burkina Faso,10,2015,2024,34924839.0,3492483.9,2385943.0,31,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,MWI,Malawi,10,2015,2024,32946906.0,3294690.6,3065087.5,32,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,LBR,Liberia,10,2015,2024,31919596.0,3191959.6,2486176.0,33,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,BEN,Benin,10,2015,2024,28939354.0,2893935.4,2918237.5,34,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,RWA,Rwanda,10,2015,2024,25803805.0,2580380.5,2771952.0,35,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,CAF,CAR,10,2015,2024,25583671.0,2558367.1,1513380.5,36,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,NGA,Nigeria,10,2015,2024,24151286.0,2415128.6,2537707.5,37,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,COM,Comoros,10,2015,2024,23068114.0,2306811.4,2000365.5,38,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,GNB,Guinea-Bissau,10,2015,2024,21174125.0,2117412.5,1637207.5,39,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,GNQ,Equatorial Guinea,10,2015,2024,20799059.0,2079905.9,2055533.0,40,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,AGO,Angola,10,2015,2024,20215229.0,2021522.9,1538081.0,41,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,MDG,Madagascar,10,2015,2024,19349901.0,1934990.1,1509102.0,42,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,MAR,Morocco,10,2015,2024,18086906.0,1808690.6,539377.5,43,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,SOM,Somalia,10,2015,2024,15820264.0,1582026.4,682014.0,44,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,GAB,Gabon,10,2015,2024,15185776.0,1518577.6,677225.5,45,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,ERI,Eritrea,10,2015,2024,15088907.0,1508890.7,733136.5,46,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,DZA,Algeria,10,2015,2024,12691938.0,1269193.8,0.0,47,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,ZAF,South Africa,10,2015,2024,11246990.0,1124699.0,151056.5,48,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,BWA,Botswana,10,2015,2024,10690917.0,1069091.7,691543.0,49,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,LBY,Libya,10,2015,2024,7281991.0,728199.1,0.0,50,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,SYC,Seychelles,10,2015,2024,6543806.0,654380.6,501948.0,51,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,MUS,Mauritius,10,2015,2024,6343173.0,634317.3,277469.0,52,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,STP,Sao Tome & Principe,10,2015,2024,6044249.0,604424.9,322495.5,53,USD,nominal_usd,nominal_values_not_inflation_adjusted
+aidexports,Aid exports,SWZ,Eswatini,10,2015,2024,0.0,0.0,0.0,54,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,ZAF,South Africa,22,2003,2024,89700477165.04,4077294416.592727,4749020000.0,1,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,COD,"Congo, Dem. Rep.",22,2003,2024,47226670000.0,2146666818.181818,1630215000.0,2,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,NGA,Nigeria,22,2003,2024,37107368000.0,1686698545.454545,2170035000.0,3,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,ZMB,Zambia,22,2003,2024,36891480000.0,1676885454.545455,1837215000.0,4,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,DZA,Algeria,22,2003,2024,28656687400.0,1302576700.0,1559565000.0,5,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,AGO,Angola,22,2003,2024,27620620000.0,1255482727.272727,1256695000.0,6,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,ETH,Ethiopia,22,2003,2024,27020510000.0,1228205000.0,843230000.0,7,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,ZWE,Zimbabwe,22,2003,2024,21013610000.0,955164090.909091,956580000.0,8,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,KEN,Kenya,22,2003,2024,19797280000.0,899876363.636364,744805000.0,9,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,TZA,Tanzania,22,2003,2024,17594030000.0,799728636.363636,800820000.0,10,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,SDN,Sudan,22,2003,2024,17523036200.0,796501645.454545,1028240000.0,11,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,GHA,Ghana,22,2003,2024,17427610000.0,792164090.909091,855315000.0,12,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,MUS,Mauritius,22,2003,2024,16705230000.0,759328636.363636,775195000.0,13,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,NER,Niger,22,2003,2024,14593130000.0,663324090.909091,404465000.0,14,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,MOZ,Mozambique,22,2003,2024,14303970000.0,650180454.545455,580975000.0,15,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,EGY,Egypt,22,2003,2024,14011330000.0,636878636.363636,584120000.0,16,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,COG,"Congo, Rep.",22,2003,2024,11259280000.0,511785454.545455,557370000.0,17,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,GIN,Guinea,22,2003,2024,8735012400.0,397046018.181818,360650000.0,18,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,UGA,Uganda,22,2003,2024,8320250000.0,378193181.818182,423930000.0,19,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,TCD,Chad,22,2003,2024,6650340000.0,302288181.818182,358950000.0,20,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,MDG,Madagascar,22,2003,2024,5943935800.0,270178900.0,263290000.0,21,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,CIV,Cote d'Ivoire,22,2003,2024,5904920000.0,268405454.545455,52165000.0,22,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,MLI,Mali,22,2003,2024,5034110000.0,228823181.818182,303235000.0,23,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,NAM,Namibia,22,2003,2024,4809050000.0,218593181.818182,167140000.0,24,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,CMR,Cameroon,22,2003,2024,4637150000.0,210779545.454545,163120000.0,25,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,GNQ,Equatorial Guinea,22,2003,2024,4351520000.0,197796363.636364,219915000.0,26,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,SYC,Seychelles,22,2003,2024,4253750000.0,193352272.727273,108935000.0,27,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,MAR,Morocco,22,2003,2024,4226300000.0,192104545.454545,108700000.0,28,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,BWA,Botswana,22,2003,2024,3653420000.0,166064545.454545,169395000.0,29,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,GAB,Gabon,22,2003,2024,3414570000.0,155207727.272727,135950000.0,30,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,LBR,Liberia,22,2003,2024,3048010000.0,138545909.090909,147550000.0,31,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,SEN,Senegal,22,2003,2024,2981400000.0,135518181.818182,114120000.0,32,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,ERI,Eritrea,22,2003,2024,2859790000.0,129990454.545455,105630000.0,33,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,MWI,Malawi,22,2003,2024,2783250000.0,126511363.636364,124425000.0,34,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,LBY,Libya,22,2003,2024,2539200000.0,115418181.818182,77055000.0,35,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,MRT,Mauritania,22,2003,2024,2465300000.0,112059090.909091,105990000.0,36,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,SLE,Sierra Leone,22,2003,2024,2033400000.0,92427272.727273,88595000.0,37,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,RWA,Rwanda,22,2003,2024,1937440000.0,88065454.545455,81345000.0,38,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,BEN,Benin,22,2003,2024,1581620000.0,71891818.181818,61590000.0,39,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,TGO,Togo,22,2003,2024,1465640000.0,66620000.0,62630000.0,40,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,DJI,Djibouti,22,2003,2024,1302200000.0,59190909.090909,35315000.0,41,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,GNB,Guinea-Bissau,22,2003,2024,638780000.0,29035454.545455,26855000.0,42,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,CAF,CAR,22,2003,2024,538390000.0,24472272.727273,14485000.0,43,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,SSD,South Sudan,22,2003,2024,529980000.0,24090000.0,22430000.0,44,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,TUN,Tunisia,22,2003,2024,284400000.0,12927272.727273,11305000.0,45,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,BDI,Burundi,22,2003,2024,180370000.0,8198636.363636,8450000.0,46,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,LSO,Lesotho,22,2003,2024,171420000.0,7791818.181818,8270000.0,47,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,GMB,The Gambia,22,2003,2024,161960000.0,7361818.181818,1215000.0,48,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,CPV,Cape Verde,22,2003,2024,139080000.0,6321818.181818,4580000.0,49,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,COM,Comoros,22,2003,2024,65220000.0,2964545.454545,4045000.0,50,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,BFA,Burkina Faso,22,2003,2024,54130000.0,2460454.545455,100000.0,51,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,STP,Sao Tome & Principe,22,2003,2024,6910000.0,314090.909091,345000.0,52,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,SOM,Somalia,22,2003,2024,0.0,0.0,0.0,53,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_stock,FDI stock,SWZ,Eswatini,22,2003,2024,0.0,0.0,0.0,54,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,ZAF,South Africa,22,2003,2024,9724013204.65,442000600.211364,328135000.0,1,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,COD,"Congo, Dem. Rep.",22,2003,2024,5828060000.0,264911818.181818,186855000.0,2,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,ZMB,Zambia,22,2003,2024,4442190000.0,201917727.272727,167425000.0,3,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,NGA,Nigeria,22,2003,2024,3625755000.0,164807045.454545,167210000.0,4,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,DZA,Algeria,22,2003,2024,2836834200.0,128947009.090909,130130000.0,5,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,KEN,Kenya,22,2003,2024,2798040000.0,127183636.363636,73450000.0,6,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,NER,Niger,22,2003,2024,2560460000.0,116384545.454545,51235000.0,7,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,MUS,Mauritius,22,2003,2024,2246710000.0,102123181.818182,53630000.0,8,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,ZWE,Zimbabwe,22,2003,2024,2058780000.0,93580909.090909,50290000.0,9,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,AGO,Angola,22,2003,2024,1995980000.0,90726363.636364,65230000.0,10,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,ETH,Ethiopia,22,2003,2024,1945350000.0,88425000.0,73295000.0,11,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,EGY,Egypt,22,2003,2024,1903240000.0,86510909.090909,73630000.0,12,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,GHA,Ghana,22,2003,2024,1896810000.0,86218636.363636,46775000.0,13,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,MOZ,Mozambique,22,2003,2024,1828420000.0,83110000.0,31770000.0,14,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,TZA,Tanzania,22,2003,2024,1718560000.0,78116363.636364,72115000.0,15,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,COG,"Congo, Rep.",22,2003,2024,1641770000.0,74625909.090909,41755000.0,16,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,GIN,Guinea,22,2003,2024,1298609900.0,59027722.727273,26670000.0,17,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,UGA,Uganda,22,2003,2024,1164700000.0,52940909.090909,18205000.0,18,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,CIV,Cote d'Ivoire,22,2003,2024,924860000.0,42039090.909091,7745000.0,19,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,MAR,Morocco,22,2003,2024,796250000.0,36193181.818182,8425000.0,20,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,SDN,Sudan,22,2003,2024,747459500.0,33975431.818182,0.0,21,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,SYC,Seychelles,22,2003,2024,598670000.0,27212272.727273,9920000.0,22,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,TCD,Chad,22,2003,2024,533940000.0,24270000.0,6090000.0,23,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,ERI,Eritrea,22,2003,2024,462930000.0,21042272.727273,1625000.0,24,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,MDG,Madagascar,22,2003,2024,452436500.0,20565295.454545,14575000.0,25,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,CMR,Cameroon,22,2003,2024,441750000.0,20079545.454545,1960000.0,26,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,BWA,Botswana,22,2003,2024,397770000.0,18080454.545455,8885000.0,27,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,LBR,Liberia,22,2003,2024,361650000.0,16438636.363636,11170000.0,28,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,MLI,Mali,22,2003,2024,358410000.0,16291363.636364,13645000.0,29,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,MRT,Mauritania,22,2003,2024,347830000.0,15810454.545455,6150000.0,30,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,GAB,Gabon,22,2003,2024,300950000.0,13679545.454545,9830000.0,31,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,SEN,Senegal,22,2003,2024,262110000.0,11914090.909091,5765000.0,32,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,CAF,CAR,22,2003,2024,260160000.0,11825454.545455,135000.0,33,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,BEN,Benin,22,2003,2024,189550000.0,8615909.090909,5690000.0,34,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,NAM,Namibia,22,2003,2024,171110000.0,7777727.272727,6790000.0,35,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,DJI,Djibouti,22,2003,2024,170140000.0,7733636.363636,2700000.0,36,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,RWA,Rwanda,22,2003,2024,147260000.0,6693636.363636,4540000.0,37,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,TGO,Togo,22,2003,2024,127900000.0,5813636.363636,4390000.0,38,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,GNQ,Equatorial Guinea,22,2003,2024,120520000.0,5478181.818182,2745000.0,39,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,SLE,Sierra Leone,22,2003,2024,117660000.0,5348181.818182,4430000.0,40,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,MWI,Malawi,22,2003,2024,57010000.0,2591363.636364,2900000.0,41,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,SSD,South Sudan,22,2003,2024,46020000.0,2091818.181818,25000.0,42,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,LSO,Lesotho,22,2003,2024,30300000.0,1377272.727273,55000.0,43,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,BFA,Burkina Faso,22,2003,2024,27930000.0,1269545.454545,0.0,44,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,TUN,Tunisia,22,2003,2024,26800000.0,1218181.818182,0.0,45,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,GNB,Guinea-Bissau,22,2003,2024,26290000.0,1195000.0,0.0,46,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,BDI,Burundi,22,2003,2024,25850000.0,1175000.0,0.0,47,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,GMB,The Gambia,22,2003,2024,23840000.0,1083636.363636,0.0,48,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,CPV,Cape Verde,22,2003,2024,2450000.0,111363.636364,0.0,49,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,COM,Comoros,22,2003,2024,2100000.0,95454.545455,0.0,50,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,STP,Sao Tome & Principe,22,2003,2024,1700000.0,77272.727273,0.0,51,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,SOM,Somalia,22,2003,2024,0.0,0.0,0.0,52,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,SWZ,Eswatini,22,2003,2024,0.0,0.0,0.0,53,USD,nominal_usd,nominal_values_not_inflation_adjusted
+fdi_flow,FDI flow,LBY,Libya,22,2003,2024,-291080000.0,-13230909.090909,-4735000.0,54,USD,nominal_usd,nominal_values_not_inflation_adjusted
+ihme,IHME DAH disbursement,NGA,Nigeria,24,2000,2023,36957.805218,1539.908551,1675.719744,1,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,ETH,Ethiopia,24,2000,2023,26523.643307,1105.151804,1291.056767,2,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,KEN,Kenya,24,2000,2023,23176.356499,965.681521,1089.223071,3,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,TZA,Tanzania,24,2000,2023,23040.82535,960.03439,1133.232574,4,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,COD,"Congo, Dem. Rep.",24,2000,2023,22206.758558,925.281607,934.694757,5,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,UGA,Uganda,24,2000,2023,20608.079117,858.669963,875.135348,6,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,ZAF,South Africa,24,2000,2023,19264.958676,802.706612,947.691521,7,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,MOZ,Mozambique,24,2000,2023,19234.271815,801.427992,783.996335,8,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,ZMB,Zambia,24,2000,2023,14605.000588,608.541691,652.914593,9,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,MWI,Malawi,24,2000,2023,12434.822258,518.117594,566.75975,10,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,ZWE,Zimbabwe,24,2000,2023,10155.324203,423.138508,446.867861,11,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,GHA,Ghana,24,2000,2023,9424.25122,392.677134,398.224416,12,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,RWA,Rwanda,24,2000,2023,8505.532417,354.397184,395.051632,13,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,SDN,Sudan,24,2000,2023,7528.987765,313.707824,327.294647,14,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,CIV,Cote d'Ivoire,24,2000,2023,7267.301186,302.804216,268.533831,15,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,MLI,Mali,24,2000,2023,6828.278332,284.511597,313.076398,16,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,SSD,South Sudan,24,2000,2023,6685.796834,278.574868,241.416613,17,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,BFA,Burkina Faso,24,2000,2023,6329.213404,263.717225,242.597895,18,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,CMR,Cameroon,24,2000,2023,5785.446548,241.060273,208.967471,19,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,SEN,Senegal,24,2000,2023,5648.04774,235.335322,234.361914,20,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,NER,Niger,24,2000,2023,5377.093692,224.045571,171.927407,21,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,SOM,Somalia,24,2000,2023,5062.002582,210.916774,189.350403,22,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,EGY,Egypt,24,2000,2023,4925.762101,205.240088,150.523448,23,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,MDG,Madagascar,24,2000,2023,4879.035606,203.29315,196.326003,24,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,MAR,Morocco,24,2000,2023,4638.510417,193.271267,149.042044,25,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,SLE,Sierra Leone,24,2000,2023,4626.700878,192.779203,147.477924,26,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,AGO,Angola,24,2000,2023,4097.25141,170.718809,159.052017,27,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,BDI,Burundi,24,2000,2023,4096.953878,170.706412,182.988857,28,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,GIN,Guinea,24,2000,2023,3975.245035,165.63521,97.042259,29,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,LBR,Liberia,24,2000,2023,3854.211276,160.592137,163.074269,30,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,TCD,Chad,24,2000,2023,3845.18137,160.21589,135.602294,31,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,BEN,Benin,24,2000,2023,3584.440372,149.351682,152.675347,32,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,NAM,Namibia,24,2000,2023,3211.88174,133.828406,145.08906,33,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,BWA,Botswana,24,2000,2023,2820.269223,117.511218,109.925613,34,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,LSO,Lesotho,24,2000,2023,2487.684452,103.653519,106.16175,35,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,CAF,CAR,24,2000,2023,2319.970099,96.665421,69.641618,36,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,TGO,Togo,24,2000,2023,1963.987704,81.832821,70.896657,37,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,SWZ,Eswatini,24,2000,2023,1961.312384,81.721349,87.561166,38,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,COG,"Congo, Rep.",24,2000,2023,1762.171063,73.423794,44.667549,39,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,ERI,Eritrea,24,2000,2023,1375.203801,57.300158,52.977992,40,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,MRT,Mauritania,24,2000,2023,1366.24498,56.926874,41.022821,41,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,GMB,The Gambia,24,2000,2023,1313.608867,54.733703,53.961145,42,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,TUN,Tunisia,24,2000,2023,1161.653901,48.402246,26.072495,43,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,GNB,Guinea-Bissau,24,2000,2023,1091.655968,45.485665,44.865689,44,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,LBY,Libya,24,2000,2023,841.55186,35.064661,23.507664,45,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,DJI,Djibouti,24,2000,2023,792.835087,33.034795,28.732495,46,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,GAB,Gabon,24,2000,2023,651.673021,27.153043,22.89636,47,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,COM,Comoros,24,2000,2023,527.369993,21.97375,19.805677,48,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,DZA,Algeria,24,2000,2023,512.949852,21.37291,11.846844,49,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,CPV,Cape Verde,24,2000,2023,501.101178,20.879216,21.63117,50,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,STP,Sao Tome & Principe,24,2000,2023,411.786698,17.157779,15.302516,51,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,GNQ,Equatorial Guinea,22,2000,2023,272.537087,12.388049,13.553329,52,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,MUS,Mauritius,24,2000,2023,236.102629,9.83761,5.771713,53,USD million,constant_2023_usd,within_source_price_basis_preserved
+ihme,IHME DAH disbursement,SYC,Seychelles,18,2000,2023,37.139434,2.063302,2.167731,54,USD million,constant_2023_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,AGO,Angola,16,2002,2017,72768920475.56831,4548057529.72302,2207492077.768168,1,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,NGA,Nigeria,15,2002,2017,48435112779.37214,3229007518.624809,397909003.342637,2,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,GIN,Guinea,13,2000,2017,22533510675.76367,1733346975.058744,22006419.980873,3,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,ETH,Ethiopia,17,2000,2017,21997861581.67087,1293991857.745345,1189397397.086298,4,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,GHA,Ghana,17,2000,2017,18715044929.46408,1100884995.850828,272424944.579288,5,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,ZWE,Zimbabwe,17,2000,2017,17127326010.22009,1007489765.307064,492273226.965662,6,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,SDN,Sudan,17,2000,2017,16348089150.526499,961652302.972147,502526162.775189,7,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,TZA,Tanzania,17,2000,2017,12057041826.746054,709237754.514474,89703112.489,8,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,COD,"Congo, Dem. Rep.",17,2000,2017,11511681652.084028,677157744.240237,95954782.323089,9,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,KEN,Kenya,17,2000,2017,10739640390.47392,631743552.380819,253435968.33556,10,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,COG,"Congo, Rep.",16,2000,2017,10539861772.453867,658741360.778367,366614292.339855,11,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,GNQ,Equatorial Guinea,13,2002,2017,9380440371.16042,721572336.243109,26685010.578197,12,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,ZMB,Zambia,16,2000,2017,7595316473.778381,474707279.611149,311458319.847751,13,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,ZAF,South Africa,15,2002,2017,6492505661.817798,432833710.787853,189858985.852325,14,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,CMR,Cameroon,14,2002,2017,5627121431.669645,401937245.11926,230385186.07699,15,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,MOZ,Mozambique,17,2000,2017,4844845452.56321,284990908.974307,87304328.143997,16,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,SSD,South Sudan,8,2009,2017,4438106964.424359,554763370.553045,276466814.650766,17,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,SEN,Senegal,12,2005,2017,3940446792.888381,328370566.074032,95535674.218893,18,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,TCD,Chad,9,2006,2017,3683612457.473142,409290273.052571,115916782.516627,19,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,DZA,Algeria,9,2002,2017,3648671293.308445,405407921.478716,29596978.974676,20,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,EGY,Egypt,16,2002,2017,3529128048.297718,220570503.018607,36021415.816847,21,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,CIV,Cote d'Ivoire,15,2000,2017,3399096727.964557,226606448.53097,128647327.088055,22,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,MLI,Mali,17,2000,2017,3385641210.298193,199155365.311658,53816597.575466,23,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,UGA,Uganda,17,2000,2017,3267902102.897293,192229535.464547,29621902.559222,24,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,SLE,Sierra Leone,14,2000,2017,3265581121.93276,233255794.423769,34888621.078918,25,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,NAM,Namibia,17,2000,2017,3203218980.486925,188424645.910996,22631825.686009,26,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,NER,Niger,15,2002,2017,3154150180.118167,210276678.674544,62756049.443581,27,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,GAB,Gabon,14,2000,2016,3094195540.344568,221013967.167469,65368181.983726,28,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,DJI,Djibouti,13,2002,2017,1879456981.400618,144573613.953894,29665605.040512,29,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,MRT,Mauritania,15,2002,2017,1662514622.87639,110834308.191759,74344472.144254,30,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,BEN,Benin,16,2000,2017,1595935969.994079,99745998.12463,42373945.971264,31,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,TGO,Togo,16,2002,2017,1542867243.990883,96429202.74943,36361574.852609,32,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,BWA,Botswana,15,2000,2017,1360456995.257114,90697133.017141,12339889.284715,33,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,MWI,Malawi,11,2007,2017,1208168525.875594,109833502.352327,78071755.063047,34,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,LBR,Liberia,15,2003,2017,1151598844.270271,76773256.284685,33658558.849215,35,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,MUS,Mauritius,17,2000,2017,1090319813.28514,64136459.605008,28154669.83719,36,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,ERI,Eritrea,16,2000,2017,1000301565.253932,62518847.828371,29122334.618192,37,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,MAR,Morocco,13,2000,2016,788323857.086874,60640296.69899,11495567.691451,38,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,RWA,Rwanda,13,2000,2017,759829694.782211,58448438.06017,53391091.581553,39,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,MDG,Madagascar,16,2000,2017,724391782.790305,45274486.424394,12782172.898488,40,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,CPV,Cape Verde,15,2000,2017,584463449.385625,38964229.959042,25666834.294079,41,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,TUN,Tunisia,15,2000,2017,580005253.422566,38667016.894838,22991135.382902,42,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,BDI,Burundi,15,2003,2017,477769556.174896,31851303.744993,19777227.054207,43,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,LBY,Libya,2,2009,2011,394418703.008688,197209351.504344,197209351.504344,44,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,CAF,CAR,13,2002,2017,386298771.101974,29715290.084767,26552013.67962,45,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,GNB,Guinea-Bissau,15,2002,2017,355400646.712254,23693376.447484,11824277.989588,46,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,GMB,The Gambia,2,2016,2017,346411700.70763,173205850.353815,173205850.353815,47,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,LSO,Lesotho,14,2002,2017,257662791.671508,18404485.119393,15727607.007723,48,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,STP,Sao Tome & Principe,1,2017,2017,228583110.160833,228583110.160833,228583110.160833,49,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,SYC,Seychelles,15,2000,2017,219020124.361399,14601341.624093,9845729.255746,50,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,COM,Comoros,15,2000,2017,185197571.983487,12346504.798899,10905713.276285,51,USD,constant_2017_usd,within_source_price_basis_preserved
+china_eu_finance,China development finance,SOM,Somalia,11,2000,2017,57178560.804101,5198050.982191,2025293.556961,52,USD,constant_2017_usd,within_source_price_basis_preserved
+cgp_capacity,CGP capacity,ZAF,South Africa,4,2010,2018,11422.5,2855.625,2523.0,1,MW,not_applicable,within_source_price_basis_preserved
+cgp_capacity,CGP capacity,AGO,Angola,2,2014,2016,2182.42,1091.21,1091.21,2,MW,not_applicable,within_source_price_basis_preserved
+cgp_capacity,CGP capacity,SDN,Sudan,3,2003,2009,1920.0,640.0,470.0,3,MW,not_applicable,within_source_price_basis_preserved
+cgp_capacity,CGP capacity,EGY,Egypt,2,2016,2021,1666.5,833.25,833.25,4,MW,not_applicable,within_source_price_basis_preserved
+cgp_capacity,CGP capacity,UGA,Uganda,3,2014,2020,1461.2,487.066667,600.0,5,MW,not_applicable,within_source_price_basis_preserved
+cgp_capacity,CGP capacity,ZMB,Zambia,3,2008,2017,1196.0,398.666667,360.0,6,MW,not_applicable,within_source_price_basis_preserved
+cgp_capacity,CGP capacity,NGA,Nigeria,3,2002,2019,1045.0,348.333333,250.0,7,MW,not_applicable,within_source_price_basis_preserved
+cgp_capacity,CGP capacity,ZWE,Zimbabwe,3,2013,2016,1000.0,333.333333,300.0,8,MW,not_applicable,within_source_price_basis_preserved
+cgp_capacity,CGP capacity,GHA,Ghana,3,2007,2011,989.0,329.666667,399.0,9,MW,not_applicable,within_source_price_basis_preserved
+cgp_capacity,CGP capacity,ETH,Ethiopia,6,2007,2017,823.1,137.183333,136.5,10,MW,not_applicable,within_source_price_basis_preserved
+cgp_capacity,CGP capacity,GIN,Guinea,2,2013,2018,690.0,345.0,345.0,11,MW,not_applicable,within_source_price_basis_preserved
+cgp_capacity,CGP capacity,COD,"Congo, Dem. Rep.",3,2011,2015,402.0,134.0,150.0,12,MW,not_applicable,within_source_price_basis_preserved
+cgp_capacity,CGP capacity,CIV,Cote d'Ivoire,2,2013,2019,386.9,193.45,193.45,13,MW,not_applicable,within_source_price_basis_preserved
+cgp_capacity,CGP capacity,MAR,Morocco,1,2014,2014,350.0,350.0,350.0,14,MW,not_applicable,within_source_price_basis_preserved
+cgp_capacity,CGP capacity,CMR,Cameroon,2,2010,2011,225.0,112.5,112.5,15,MW,not_applicable,within_source_price_basis_preserved
+cgp_capacity,CGP capacity,KEN,Kenya,2,2010,2015,190.0,95.0,95.0,16,MW,not_applicable,within_source_price_basis_preserved
+cgp_capacity,CGP capacity,GNQ,Equatorial Guinea,2,2006,2009,162.0,81.0,81.0,17,MW,not_applicable,within_source_price_basis_preserved
+cgp_capacity,CGP capacity,GAB,Gabon,1,2008,2008,160.0,160.0,160.0,18,MW,not_applicable,within_source_price_basis_preserved
+cgp_capacity,CGP capacity,MLI,Mali,1,2013,2013,139.8,139.8,139.8,19,MW,not_applicable,within_source_price_basis_preserved
+cgp_capacity,CGP capacity,TUN,Tunisia,1,2022,2022,100.0,100.0,100.0,20,MW,not_applicable,within_source_price_basis_preserved
+cgp_capacity,CGP capacity,SSD,South Sudan,1,2007,2007,85.0,85.0,85.0,21,MW,not_applicable,within_source_price_basis_preserved
+cgp_capacity,CGP capacity,LSO,Lesotho,1,2020,2020,70.0,70.0,70.0,22,MW,not_applicable,within_source_price_basis_preserved
+cgp_capacity,CGP capacity,MDG,Madagascar,1,2023,2023,64.0,64.0,64.0,23,MW,not_applicable,within_source_price_basis_preserved
+cgp_capacity,CGP capacity,TCD,Chad,1,2003,2003,60.0,60.0,60.0,24,MW,not_applicable,within_source_price_basis_preserved
+cgp_capacity,CGP capacity,ERI,Eritrea,1,2014,2014,47.6,47.6,47.6,25,MW,not_applicable,within_source_price_basis_preserved
+cgp_capacity,CGP capacity,RWA,Rwanda,1,2020,2020,43.5,43.5,43.5,26,MW,not_applicable,within_source_price_basis_preserved
+cgp_capacity,CGP capacity,BFA,Burkina Faso,1,2023,2023,25.0,25.0,25.0,27,MW,not_applicable,within_source_price_basis_preserved
+cgp_capacity,CGP capacity,LBR,Liberia,1,2009,2009,24.69,24.69,24.69,28,MW,not_applicable,within_source_price_basis_preserved
+cgp_capacity,CGP capacity,COG,"Congo, Rep.",1,2013,2013,19.5,19.5,19.5,29,MW,not_applicable,within_source_price_basis_preserved

@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "title": "中非援助数据库",
+    "description": "中国对非援助与发展融资多源数据分析平台"
+  },
+  "brand": {
+    "eyebrow": "CHINA–AFRICA AID DATABASE",
+    "title": "中非援助数据库",
+    "shortTitle": "中非援助数据库",
+    "subtitle": "中国对非援助与发展融资多源数据分析平台"
+  },
+  "nav": {
+    "home": "总览",
+    "databases": "数据源目录",
+    "trends": "记录趋势",
+    "countries": "国家排名",
+    "sectors": "行业",
+    "records": "记录",
+    "topics": "专题分析",
+    "quality": "数据质量",
+    "findings": "分析结果",
+    "review": "匹配审核",
+    "methods": "方法与数据",
+    "menu": "打开导航",
+    "close": "关闭导航"
+  },
+  "global": {
+    "language": "English",
+    "updated": "数据更新时间",
+    "pending": "待数据构建",
+    "status": "接入状态",
+    "notConnected": "尚未接入",
+    "learnMore": "了解数据方法",
+    "skip": "跳到主要内容"
+  },
+  "home": {
+    "kicker": "多源数据库 · 交互分析 · 方法透明",
+    "headline": "从数据出发，理解中国与非洲的发展合作。",
+    "intro": "整合12个援助、贷款、债务、投资、能源与卫生数据库，通过趋势、国家、行业和项目记录等维度，让复杂数据变得清晰、可比、可追溯。",
+    "primaryAction": "开始分析",
+    "secondaryAction": "浏览数据库",
+    "stats": {
+      "title": "数据规模",
+      "families": "数据库家族",
+      "countries": "非洲国家",
+      "years": "数据时间跨度",
+      "records": "已整理记录"
+    },
+    "analyticsTitle": "一套面向研究的分析工作台。",
+    "analyticsIntro": "从总体覆盖到单条记录，在同一界面切换统计维度。每个指标都保留来源、单位、时间口径与质量标记。",
+    "chart": {
+      "title": "数据库概览",
+      "scope": "当前数据资产 · 构建前审计",
+      "selectMetric": "选择统计指标",
+      "tabs": {
+        "coverage": "年度覆盖",
+        "records": "记录规模",
+        "years": "时间跨度"
+      },
+      "tabNotes": {
+        "coverage": "活跃数据库数量",
+        "records": "主要数据源规模",
+        "years": "可用年度长度"
+      },
+      "values": {
+        "coverage": "2015年覆盖达到峰值",
+        "records": "IHME为最大数据源",
+        "years": "最长序列覆盖34年"
+      },
+      "descriptions": {
+        "coverage": "各年份处于已知数据覆盖期内的数据库家族数。",
+        "records": "使用对数化视觉尺度比较主要数据库的记录数量。",
+        "years": "比较主要数据库可用于年度分析的时间跨度。"
+      },
+      "footnote": "图表使用已核验的文件规模与覆盖范围，不合并不同指标金额。",
+      "method": "查看计算口径"
+    },
+    "featuresTitle": "从宏观趋势，到具体项目。",
+    "featuresIntro": "围绕真实研究任务组织功能，而不是堆叠图表。所有视图共享国家、年份、行业与数据源筛选逻辑。",
+    "features": {
+      "compare": { "title": "数据库比较", "body": "并排比较观察层级、覆盖范围、资金性质、金额和时间口径，快速判断数据是否适合当前研究问题。" },
+      "trend": { "title": "趋势分析", "body": "查看年度金额、记录数、FDI、卫生援助与能源指标，支持归一化指数和异常值开关。" },
+      "country": { "title": "国家分析", "body": "通过地图、排名和国别详情观察数据库覆盖、行业结构与时间变化。" },
+      "sector": { "title": "行业结构", "body": "保留原始行业分类，同时使用可审阅的统一宽口径进行跨库分析。" },
+      "records": { "title": "记录检索", "body": "搜索项目、贷款、债务事件、电厂和机组，查看来源、口径与质量标记。" },
+      "quality": { "title": "质量诊断", "body": "识别缺失、异常、覆盖断点、区域性记录和数据库更新造成的右端截断。" }
+    },
+    "researchTitle": "把方法放在图表旁边。",
+    "researchBody": "平台不会隐藏不同数据库之间的定义差异。每一项统计都说明数据从哪里来、测量什么，以及它不能说明什么。",
+    "researchPoints": {
+      "one": "金额口径独立",
+      "two": "缺失不等于零",
+      "three": "匹配需人工审核"
+    },
+    "researchAction": "阅读数据与方法"
+  },
+  "pages": {
+    "databases": { "title": "数据源目录", "description": "查看12个数据源的覆盖范围、记录层级、金额口径和可用字段。" },
+    "trends": { "title": "记录趋势", "description": "按国家和起始年份查看年度记录数量及覆盖变化。" },
+    "countries": { "title": "国家排名", "description": "按国家名称、记录数和数据源覆盖数量筛选排序。" },
+    "sectors": { "title": "行业比较", "description": "对照原始行业与统一宽口径行业映射。" },
+    "records": { "title": "记录浏览", "description": "检索可公开的项目、贷款、债务事件、电厂与机组记录。" },
+    "topics": { "title": "专题分析", "description": "进入能源、卫生、债务融资、FDI与援助出口专题。" },
+    "quality": { "title": "数据质量", "description": "查看缺失率、异常标记、覆盖断点与映射情况。" },
+    "findings": { "title": "分析结果", "description": "查看描述统计、跨库相关性、结构变化和稳健性检验结果。" },
+    "review": { "title": "匹配审核", "description": "逐对审核跨数据库项目候选并导出可追溯的人工决定。" },
+    "methods": { "title": "研究方法与数据", "description": "查看数据处理、项目匹配、质量控制与研究数据下载。" },
+    "emptyTitle": "分析模块已准备就绪",
+    "emptyBody": "该页面将在数据适配与校验完成后显示真实图表和记录。",
+    "emptyBadge": "数据接入中"
+  },
+  "footer": {
+    "statement": "组内研究平台 · 数据整理与分析",
+    "copyright": "中非援助数据库"
+  }
+}

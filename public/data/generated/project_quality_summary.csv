@@ -1,0 +1,10 @@
+﻿source_db,source_label,primary_value_field,total_records,panel_eligible_records,value_known_count,value_missing_count,value_missing_rate,country_known_rate,year_known_rate,title_known_rate,sector_classified_rate,fund_type_classified_rate,estimated_count,regional_count,framework_count,outlier_candidate_count,needs_match_review_count
+aiddata,AidData,amount_value,8957,8592,4509,4448,0.496595,0.95925,1.0,1.0,1.0,0.990064,0,0,0,11,0
+codf,CODF,amount_value,576,556,576,0,0.0,1.0,1.0,1.0,1.0,1.0,0,20,0,1,0
+cla,CLA,amount_value,1319,1244,1319,0,0.0,0.962092,1.0,1.0,1.0,1.0,0,25,0,0,0
+cancel,Debt cancellation,amount_value,94,94,78,16,0.170213,1.0,1.0,1.0,1.0,1.0,0,0,0,0,0
+restruct,Debt restructuring,amount_value,18,17,17,1,0.055556,1.0,0.944444,1.0,1.0,1.0,5,0,0,0,0
+cofi,COFI,amount_value,117,116,103,14,0.119658,1.0,0.991453,0.965812,1.0,1.0,0,0,0,4,0
+cgef,CGEF,amount_value,146,145,146,0,0.0,1.0,1.0,1.0,1.0,1.0,0,1,0,0,0
+cgp,CGP,metric_value,165,165,165,0,0.0,1.0,1.0,1.0,1.0,1.0,0,0,0,0,0
+chapo,CHAPO,amount_value,1972,1972,847,1125,0.570487,1.0,1.0,1.0,1.0,1.0,0,0,0,1,0

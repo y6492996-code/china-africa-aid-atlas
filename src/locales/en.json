@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "title": "China–Africa Aid Database",
+    "description": "A multi-source analytical platform for China–Africa aid and development finance"
+  },
+  "brand": {
+    "eyebrow": "CHINA–AFRICA AID DATABASE",
+    "title": "China–Africa Aid Database",
+    "shortTitle": "China–Africa Aid Database",
+    "subtitle": "A Multi-source Platform for Aid and Development Finance Analysis"
+  },
+  "nav": {
+    "home": "Overview",
+    "databases": "Data sources",
+    "trends": "Record trends",
+    "countries": "Country ranking",
+    "sectors": "Sectors",
+    "records": "Records",
+    "topics": "Topics",
+    "quality": "Quality",
+    "findings": "Analysis results",
+    "review": "Match review",
+    "methods": "Methods & data",
+    "menu": "Open navigation",
+    "close": "Close navigation"
+  },
+  "global": {
+    "language": "中文",
+    "updated": "Data updated",
+    "pending": "Pending data build",
+    "status": "Status",
+    "notConnected": "Not connected",
+    "learnMore": "Read the methodology",
+    "skip": "Skip to main content"
+  },
+  "home": {
+    "kicker": "Multi-source data · Interactive analysis · Transparent methods",
+    "headline": "Start with data. Understand China–Africa development cooperation.",
+    "intro": "Bringing together 12 databases on aid, loans, debt, investment, energy and health—then making them clear, comparable and traceable across trends, countries, sectors and individual records.",
+    "primaryAction": "Start analysing",
+    "secondaryAction": "Browse databases",
+    "stats": {
+      "title": "Data scale",
+      "families": "Database families",
+      "countries": "African countries",
+      "years": "Overall period",
+      "records": "Curated records"
+    },
+    "analyticsTitle": "An analytical workspace built for research.",
+    "analyticsIntro": "Move from overall coverage to individual records in one interface. Every metric retains its source, unit, time basis and quality flags.",
+    "chart": {
+      "title": "Database overview",
+      "scope": "Current data assets · Pre-build audit",
+      "selectMetric": "Select a metric",
+      "tabs": { "coverage": "Annual coverage", "records": "Record volume", "years": "Time span" },
+      "tabNotes": { "coverage": "Active source families", "records": "Largest data sources", "years": "Years available" },
+      "values": { "coverage": "Coverage peaks in 2015", "records": "IHME is the largest source", "years": "Longest series spans 34 years" },
+      "descriptions": {
+        "coverage": "Number of source families within their known reporting window in each year.",
+        "records": "Log-scaled visual comparison of record volumes in the largest databases.",
+        "years": "Available annual-analysis span for major databases."
+      },
+      "footnote": "Charts use verified file volumes and reporting windows; amounts from different metric families are not combined.",
+      "method": "View definitions"
+    },
+    "featuresTitle": "From macro trends to individual projects.",
+    "featuresIntro": "Capabilities are organised around research tasks, not a pile of charts. Views share country, year, sector and source filters.",
+    "features": {
+      "compare": { "title": "Compare databases", "body": "Review observation levels, coverage, financial instruments, amount definitions and time bases side by side." },
+      "trend": { "title": "Analyse trends", "body": "Explore annual amounts, records, FDI, health assistance and energy indicators with normalized views and outlier controls." },
+      "country": { "title": "Explore countries", "body": "Use maps, rankings and country profiles to understand coverage, sector structure and change over time." },
+      "sector": { "title": "Study sectors", "body": "Retain source classifications while adding a reviewable broad mapping for cross-database analysis." },
+      "records": { "title": "Search records", "body": "Find projects, loans, debt events, power plants and units with source, definition and quality context." },
+      "quality": { "title": "Diagnose quality", "body": "See missingness, outliers, coverage breaks, regional records and right truncation caused by update cycles." }
+    },
+    "researchTitle": "Put the method beside the chart.",
+    "researchBody": "The platform keeps definitional differences visible. Every statistic explains where the data came from, what it measures and what it cannot establish.",
+    "researchPoints": { "one": "Separate amount definitions", "two": "Missing is not zero", "three": "Matches require review" },
+    "researchAction": "Read data and methods"
+  },
+  "pages": {
+    "databases": { "title": "Data source catalogue", "description": "Review coverage, record level, amount basis and available fields across 12 sources." },
+    "trends": { "title": "Record trends", "description": "View annual record counts and coverage changes by country and start year." },
+    "countries": { "title": "Country ranking", "description": "Filter and rank countries by name, record count and source coverage." },
+    "sectors": { "title": "Sector comparison", "description": "Review original sectors alongside the broad harmonized mapping." },
+    "records": { "title": "Record browser", "description": "Search public project, loan, debt-event, power-plant and generation-unit records." },
+    "topics": { "title": "Thematic analysis", "description": "Explore energy, health, debt finance, FDI and aid-export themes." },
+    "quality": { "title": "Data quality", "description": "Review missingness, outlier flags, coverage breaks and mapping success." },
+    "findings": { "title": "Analysis results", "description": "Review descriptive statistics, cross-source correlations, structural changes and robustness checks." },
+    "review": { "title": "Match review", "description": "Review cross-database project candidates and export traceable human decisions." },
+    "methods": { "title": "Methods and research data", "description": "Review data processing, project matching, quality controls and research downloads." },
+    "emptyTitle": "The analysis module is ready",
+    "emptyBody": "Real charts and records will appear after source adaptation and validation.",
+    "emptyBadge": "Data connection in progress"
+  },
+  "footer": {
+    "statement": "Internal research workspace · Data preparation and analysis",
+    "copyright": "China–Africa Aid Database"
+  }
+}
